@@ -1,0 +1,918 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//Columbia Venues Calendar Export//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Columbia Theater – Upcoming Events
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+UID:88db672e94735bb2126f@columbia-theater.de
+DTSTAMP:20260826T125626Z
+DTSTART;TZID=Europe/Berlin:20260829T160000
+DTEND;TZID=Europe/Berlin:20260829T200000
+SUMMARY:ELLE & L's Festival
+DESCRIPTION:The International Female Multi-Genre Festival The International Female Multi-Genre Festival\nEinlass: 14:00\nEvent: https://columbia-theater.de/event/20260829-elle-ls-festival/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20260829-elle-ls-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:33350f131bd89ca11704@columbia-theater.de
+DTSTAMP:20260826T125626Z
+DTSTART;TZID=Europe/Berlin:20260830T160000
+DTEND;TZID=Europe/Berlin:20260830T200000
+SUMMARY:ELLE & L's Festival
+DESCRIPTION:The International Female Multi-Genre Festival The International Female Multi-Genre Festival\nEinlass: 14:00\nEvent: https://columbia-theater.de/event/20260830-elle-ls-festival/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20260830-elle-ls-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:b6409fe11dcf270526ca@columbia-theater.de
+DTSTAMP:20260826T125626Z
+DTSTART;TZID=Europe/Berlin:20260903T200000
+DTEND;TZID=Europe/Berlin:20260904T000000
+SUMMARY:Dance Gavin Dance
+DESCRIPTION:Europe Tour 2026 Europe Tour 2026\nSupport: As December Falls\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20260903-dance-gavin-dance/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20260903-dance-gavin-dance/
+END:VEVENT
+BEGIN:VEVENT
+UID:b05f447812c95bdb1090@columbia-theater.de
+DTSTAMP:20260826T125626Z
+DTSTART;TZID=Europe/Berlin:20260906T153000
+DTEND;TZID=Europe/Berlin:20260906T193000
+SUMMARY:Ballet of Lights
+DESCRIPTION:Dornröschen in einer funkelnden Show Dornröschen in einer funkelnden Show\nEinlass: 15:00\nEvent: https://columbia-theater.de/event/20260906-ballet-of-lights/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20260906-ballet-of-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:b2e3684e7e75d93081bf@columbia-theater.de
+DTSTAMP:20260826T125628Z
+DTSTART;TZID=Europe/Berlin:20260909T200000
+DTEND;TZID=Europe/Berlin:20260910T000000
+SUMMARY:ChRocktikal
+DESCRIPTION:1st World Tour CRTK The Beginning 1st World Tour CRTK The Beginning\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20260909-chrocktikal/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20260909-chrocktikal/
+END:VEVENT
+BEGIN:VEVENT
+UID:eb2b8d3cb25a00449137@columbia-theater.de
+DTSTAMP:20260826T125629Z
+DTSTART;TZID=Europe/Berlin:20260912T200000
+DTEND;TZID=Europe/Berlin:20260913T000000
+SUMMARY:Feng
+DESCRIPTION:Weekend Rockstar Tour Weekend Rockstar Tour\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20260912-feng/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20260912-feng/
+END:VEVENT
+BEGIN:VEVENT
+UID:3a4febca6677489b12d5@columbia-theater.de
+DTSTAMP:20260826T125627Z
+DTSTART;TZID=Europe/Berlin:20260913T200000
+DTEND;TZID=Europe/Berlin:20260914T000000
+SUMMARY:Luis
+DESCRIPTION:REAL!VE Tour 2026 REAL!VE Tour 2026\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20260913-luis/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20260913-luis/
+END:VEVENT
+BEGIN:VEVENT
+UID:dd1e55df6303f571ed6d@columbia-theater.de
+DTSTAMP:20260826T125629Z
+DTSTART;TZID=Europe/Berlin:20260914T200000
+DTEND;TZID=Europe/Berlin:20260915T000000
+SUMMARY:Ampers&One
+DESCRIPTION:'Born To Define' 'Born To Define'\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20260914-ampersone/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20260914-ampersone/
+END:VEVENT
+BEGIN:VEVENT
+UID:b8de6950b6cf710935ae@columbia-theater.de
+DTSTAMP:20260826T125629Z
+DTSTART;TZID=Europe/Berlin:20260919T200000
+DTEND;TZID=Europe/Berlin:20260920T000000
+SUMMARY:Anuv Jain
+DESCRIPTION:Dastakhat Tour Dastakhat Tour\nSupport: I Shiver\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20260919-anuv-jain/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20260919-anuv-jain/
+END:VEVENT
+BEGIN:VEVENT
+UID:cce36c583b3193c2f125@columbia-theater.de
+DTSTAMP:20260826T125629Z
+DTSTART;TZID=Europe/Berlin:20260924T200000
+DTEND;TZID=Europe/Berlin:20260925T000000
+SUMMARY:Daniel Sosa
+DESCRIPTION:Dilema | Tour Europa 2026 Dilema | Tour Europa 2026\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20260924-daniel-sosa/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20260924-daniel-sosa/
+END:VEVENT
+BEGIN:VEVENT
+UID:efd7ac5349bf30ab005a@columbia-theater.de
+DTSTAMP:20260826T125630Z
+DTSTART;TZID=Europe/Berlin:20260925T200000
+DTEND;TZID=Europe/Berlin:20260926T000000
+SUMMARY:Vega
+DESCRIPTION:Einlass: 19:00\nEvent: https://columbia-theater.de/event/20260925-vega/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20260925-vega/
+END:VEVENT
+BEGIN:VEVENT
+UID:bd2fdf9c79825d2bfbd3@columbia-theater.de
+DTSTAMP:20260826T125628Z
+DTSTART;TZID=Europe/Berlin:20260926T200000
+DTEND;TZID=Europe/Berlin:20260927T000000
+SUMMARY:John Robb & Mark Reeder
+DESCRIPTION:50 Jahre Punk - Talk mit Gästen\, Projektionen und Fotoausstellungen 50 Jahre Punk - Talk mit Gästen\, Projektionen und Fotoausstellungen\nSpecial Guests: Pauline Murray (PENETRATION) + Colin Newman (WIRE\, IMMERSION) + Budgie (SIOUXSIE & THE BANSHEES\, THE SLITS) + Annette Benjamin (HANS-A-PLAST\, DIE BENJAMINS) + Alexander Hacke (ex-EINSTÜRZENDE NEUBAUTEN\, HACKEDEPICCIOTTO) + Malka Spigel (MINIMAL COMPACT\, IMMERSION) + Thomas Schwebel (S.Y.P.H.\, MITTAGSPAUSE\, FEHLFARBEN)\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20260926-john-robb-mark-reeder/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20260926-john-robb-mark-reeder/
+END:VEVENT
+BEGIN:VEVENT
+UID:a64150d06effda4b1f5c@columbia-theater.de
+DTSTAMP:20260826T125629Z
+DTSTART;TZID=Europe/Berlin:20260927T200000
+DTEND;TZID=Europe/Berlin:20260928T000000
+SUMMARY:Silke Bischoff
+DESCRIPTION:Live 2026 Live 2026\nSpecial Guest: The Second Sight\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20260927-silke-bischoff/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20260927-silke-bischoff/
+END:VEVENT
+BEGIN:VEVENT
+UID:6c949155afb9b024b01a@columbia-theater.de
+DTSTAMP:20260826T125627Z
+DTSTART;TZID=Europe/Berlin:20260930T203000
+DTEND;TZID=Europe/Berlin:20261001T003000
+SUMMARY:Motive
+DESCRIPTION:2PREME TOUR 2PREME TOUR\nEinlass: 19:30\nEvent: https://columbia-theater.de/event/20260930-motive/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20260930-motive/
+END:VEVENT
+BEGIN:VEVENT
+UID:c1de5e096fa8ae80e650@columbia-theater.de
+DTSTAMP:20260826T125629Z
+DTSTART;TZID=Europe/Berlin:20261002T200000
+DTEND;TZID=Europe/Berlin:20261003T000000
+SUMMARY:Two Lanes
+DESCRIPTION:A Part Of Us A Part Of Us\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261002-two-lanes/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261002-two-lanes/
+END:VEVENT
+BEGIN:VEVENT
+UID:40876bc7aac89d886375@columbia-theater.de
+DTSTAMP:20260826T125626Z
+DTSTART;TZID=Europe/Berlin:20261003T200000
+DTEND;TZID=Europe/Berlin:20261004T000000
+SUMMARY:The Boyband
+DESCRIPTION:Larger Than Life Tour Larger Than Life Tour\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261003-the-boyband/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261003-the-boyband/
+END:VEVENT
+BEGIN:VEVENT
+UID:9d9242892adfe76646a1@columbia-theater.de
+DTSTAMP:20260826T125630Z
+DTSTART;TZID=Europe/Berlin:20261004T200000
+DTEND;TZID=Europe/Berlin:20261005T000000
+SUMMARY:King Woman
+DESCRIPTION:Einlass: 19:00\nEvent: https://columbia-theater.de/event/20261004-king-woman/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261004-king-woman/
+END:VEVENT
+BEGIN:VEVENT
+UID:81c987e9a984bc742599@columbia-theater.de
+DTSTAMP:20260826T125630Z
+DTSTART;TZID=Europe/Berlin:20261007T200000
+DTEND;TZID=Europe/Berlin:20261008T000000
+SUMMARY:Raised Fist
+DESCRIPTION:Einlass: 19:00\nEvent: https://columbia-theater.de/event/20261007-raised-fist/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261007-raised-fist/
+END:VEVENT
+BEGIN:VEVENT
+UID:fa2119ee04b4346234a1@columbia-theater.de
+DTSTAMP:20260826T125627Z
+DTSTART;TZID=Europe/Berlin:20261009T200000
+DTEND;TZID=Europe/Berlin:20261010T000000
+SUMMARY:Käärija
+DESCRIPTION:EURODISKO TOUR 2026 EURODISKO TOUR 2026\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261009-kaeaerija/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261009-kaeaerija/
+END:VEVENT
+BEGIN:VEVENT
+UID:07a316bcbc6670d3caab@columbia-theater.de
+DTSTAMP:20260826T125627Z
+DTSTART;TZID=Europe/Berlin:20261011T200000
+DTEND;TZID=Europe/Berlin:20261012T000000
+SUMMARY:My Ugly Clementine
+DESCRIPTION:Apply Autonomy Tour 2026 Apply Autonomy Tour 2026\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261011-my-ugly-clementine/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261011-my-ugly-clementine/
+END:VEVENT
+BEGIN:VEVENT
+UID:2f657e44f3f14563b8e1@columbia-theater.de
+DTSTAMP:20260826T125626Z
+DTSTART;TZID=Europe/Berlin:20261012T200000
+DTEND;TZID=Europe/Berlin:20261013T000000
+SUMMARY:Dizzee Rascal
+DESCRIPTION:We Want Bass Tour We Want Bass Tour\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261012-dizzee-rascal/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261012-dizzee-rascal/
+END:VEVENT
+BEGIN:VEVENT
+UID:a3fcd4a62c618e0faf56@columbia-theater.de
+DTSTAMP:20260826T125630Z
+DTSTART;TZID=Europe/Berlin:20261014T200000
+DTEND;TZID=Europe/Berlin:20261015T000000
+SUMMARY:Mar Malade
+DESCRIPTION:»Tourists« Tour »Tourists« Tour\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261014-mar-malade/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261014-mar-malade/
+END:VEVENT
+BEGIN:VEVENT
+UID:54bc055235acbb18221f@columbia-theater.de
+DTSTAMP:20260826T125630Z
+DTSTART;TZID=Europe/Berlin:20261016T190000
+DTEND;TZID=Europe/Berlin:20261016T230000
+SUMMARY:Vineeth Sreenivasan Live
+DESCRIPTION:Einlass: 18:00\nEvent: https://columbia-theater.de/event/20261016-vineeth-sreenivasan-live/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261016-vineeth-sreenivasan-live/
+END:VEVENT
+BEGIN:VEVENT
+UID:3b82042d54c759207f13@columbia-theater.de
+DTSTAMP:20260826T125629Z
+DTSTART;TZID=Europe/Berlin:20261019T200000
+DTEND;TZID=Europe/Berlin:20261020T000000
+SUMMARY:MATTERZ
+DESCRIPTION:Music Matterz Tour Music Matterz Tour\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261019-matterz/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261019-matterz/
+END:VEVENT
+BEGIN:VEVENT
+UID:851dd75a1c569a8ad8fc@columbia-theater.de
+DTSTAMP:20260826T125626Z
+DTSTART;TZID=Europe/Berlin:20261023T200000
+DTEND;TZID=Europe/Berlin:20261024T000000
+SUMMARY:Wavvyboi
+DESCRIPTION:some of us aren’t made for heaven Tour 2026 some of us aren’t made for heaven Tour 2026\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261023-wavvyboi/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261023-wavvyboi/
+END:VEVENT
+BEGIN:VEVENT
+UID:51616cb97d8982842ee2@columbia-theater.de
+DTSTAMP:20260826T125626Z
+DTSTART;TZID=Europe/Berlin:20261024T200000
+DTEND;TZID=Europe/Berlin:20261025T000000
+SUMMARY:Gökhan Türkmen
+DESCRIPTION:Europe Tour 2026 Europe Tour 2026\nSupport: DJ OSI\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261024-goekhan-tuerkmen/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261024-goekhan-tuerkmen/
+END:VEVENT
+BEGIN:VEVENT
+UID:9918d74089d026d3aa2b@columbia-theater.de
+DTSTAMP:20260826T125627Z
+DTSTART;TZID=Europe/Berlin:20261028T200000
+DTEND;TZID=Europe/Berlin:20261029T000000
+SUMMARY:The Bausa
+DESCRIPTION:Einlass: 19:00\nEvent: https://columbia-theater.de/event/20261028-the-bausa/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261028-the-bausa/
+END:VEVENT
+BEGIN:VEVENT
+UID:b59f0f7902f1f4c5dcd2@columbia-theater.de
+DTSTAMP:20260826T125627Z
+DTSTART;TZID=Europe/Berlin:20261029T200000
+DTEND;TZID=Europe/Berlin:20261030T000000
+SUMMARY:Temples
+DESCRIPTION:2026 UK / EU Bliss tour 2026 UK / EU Bliss tour\nSupport: Jewls\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261029-temples/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261029-temples/
+END:VEVENT
+BEGIN:VEVENT
+UID:69d9b998781d5a81c78e@columbia-theater.de
+DTSTAMP:20260826T125640Z
+DTSTART;TZID=Europe/Berlin:20261031T200000
+DTEND;TZID=Europe/Berlin:20261101T000000
+SUMMARY:The Temperance Movement
+DESCRIPTION:Let It All Out Tour Let It All Out Tour\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261031-the-temperance-movement/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261031-the-temperance-movement/
+END:VEVENT
+BEGIN:VEVENT
+UID:f54cafe97eb17265fc65@columbia-theater.de
+DTSTAMP:20260826T125639Z
+DTSTART;TZID=Europe/Berlin:20261101T200000
+DTEND;TZID=Europe/Berlin:20261102T000000
+SUMMARY:A.Chal
+DESCRIPTION:World Tour 2026 World Tour 2026\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261101-a-chal/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261101-a-chal/
+END:VEVENT
+BEGIN:VEVENT
+UID:8822822903e94a5fc341@columbia-theater.de
+DTSTAMP:20260826T125638Z
+DTSTART;TZID=Europe/Berlin:20261103T200000
+DTEND;TZID=Europe/Berlin:20261104T000000
+SUMMARY:Alela Diane
+DESCRIPTION:Support: The Hackles\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261103-alela-diane/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261103-alela-diane/
+END:VEVENT
+BEGIN:VEVENT
+UID:2d9270d6c17c5fb433d8@columbia-theater.de
+DTSTAMP:20260826T125641Z
+DTSTART;TZID=Europe/Berlin:20261104T200000
+DTEND;TZID=Europe/Berlin:20261105T000000
+SUMMARY:Dirty Three
+DESCRIPTION:Einlass: 19:00\nEvent: https://columbia-theater.de/event/20261104-dirty-three/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261104-dirty-three/
+END:VEVENT
+BEGIN:VEVENT
+UID:8c4b64588072d19f559a@columbia-theater.de
+DTSTAMP:20260826T125642Z
+DTSTART;TZID=Europe/Berlin:20261105T200000
+DTEND;TZID=Europe/Berlin:20261106T000000
+SUMMARY:Monolord
+DESCRIPTION:Support: Mars Red Sky\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261105-monolord/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261105-monolord/
+END:VEVENT
+BEGIN:VEVENT
+UID:29e9e06b6019bd3f58c8@columbia-theater.de
+DTSTAMP:20260826T125641Z
+DTSTART;TZID=Europe/Berlin:20261106T200000
+DTEND;TZID=Europe/Berlin:20261107T000000
+SUMMARY:Coeur De Pirate
+DESCRIPTION:Einlass: 19:00\nEvent: https://columbia-theater.de/event/20261106-coeur-de-pirate-2/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261106-coeur-de-pirate-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:a5ac385bc38b9be90ece@columbia-theater.de
+DTSTAMP:20260826T125638Z
+DTSTART;TZID=Europe/Berlin:20261107T200000
+DTEND;TZID=Europe/Berlin:20261108T000000
+SUMMARY:Heaven 17
+DESCRIPTION:„ELECTRONICALLY YOURS“ Tour 2026 „ELECTRONICALLY YOURS“ Tour 2026\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261107-heaven-17/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261107-heaven-17/
+END:VEVENT
+BEGIN:VEVENT
+UID:3498a8b2add5b92cc823@columbia-theater.de
+DTSTAMP:20260826T125641Z
+DTSTART;TZID=Europe/Berlin:20261110T200000
+DTEND;TZID=Europe/Berlin:20261111T000000
+SUMMARY:Sons Of Legion
+DESCRIPTION:Soul to SØL World Tour 2026 Soul to SØL World Tour 2026\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261110-sons-of-legion/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261110-sons-of-legion/
+END:VEVENT
+BEGIN:VEVENT
+UID:b1113f0364e636be572d@columbia-theater.de
+DTSTAMP:20260826T125640Z
+DTSTART;TZID=Europe/Berlin:20261111T200000
+DTEND;TZID=Europe/Berlin:20261112T000000
+SUMMARY:Ghostly Kisses
+DESCRIPTION:Einlass: 19:00\nEvent: https://columbia-theater.de/event/20261111-ghostly-kisses/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261111-ghostly-kisses/
+END:VEVENT
+BEGIN:VEVENT
+UID:9e239a1b0187b3c52a6b@columbia-theater.de
+DTSTAMP:20260826T125639Z
+DTSTART;TZID=Europe/Berlin:20261113T180000
+DTEND;TZID=Europe/Berlin:20261113T220000
+SUMMARY:ARCHSPIRE
+DESCRIPTION:EUROPEAN VACATION 2026 EUROPEAN VACATION 2026\nSpecial Guests: CROWN MAGNETAR + THE ZENITH PASSAGE + ANALEPSY\nEinlass: 17:00\nEvent: https://columbia-theater.de/event/20261113-archspire/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261113-archspire/
+END:VEVENT
+BEGIN:VEVENT
+UID:c02a84b184f2deb7847c@columbia-theater.de
+DTSTAMP:20260826T125641Z
+DTSTART;TZID=Europe/Berlin:20261114T190000
+DTEND;TZID=Europe/Berlin:20261114T230000
+SUMMARY:Enkay
+DESCRIPTION:zwischen den Stühlen Tour 2026 zwischen den Stühlen Tour 2026\nEinlass: 18:00\nEvent: https://columbia-theater.de/event/20261114-enkay/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261114-enkay/
+END:VEVENT
+BEGIN:VEVENT
+UID:aad48f4927d688da8cd0@columbia-theater.de
+DTSTAMP:20260826T125640Z
+DTSTART;TZID=Europe/Berlin:20261116T200000
+DTEND;TZID=Europe/Berlin:20261117T000000
+SUMMARY:Caro
+DESCRIPTION:Einlass: 19:00\nEvent: https://columbia-theater.de/event/20261116-caro/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261116-caro/
+END:VEVENT
+BEGIN:VEVENT
+UID:b1e8b42415dfc0c4ceba@columbia-theater.de
+DTSTAMP:20260826T125639Z
+DTSTART;TZID=Europe/Berlin:20261118T190000
+DTEND;TZID=Europe/Berlin:20261118T230000
+SUMMARY:Despised Icon / Carnifex / Suffocation
+DESCRIPTION:DEATH DOMINION EU 2026 DEATH DOMINION EU 2026\nSupport: Gates To Hell\nEinlass: 18:00\nEvent: https://columbia-theater.de/event/20261118-despised-icon-carnifex-suffocation/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261118-despised-icon-carnifex-suffocation/
+END:VEVENT
+BEGIN:VEVENT
+UID:b2392aeb55679e1a5757@columbia-theater.de
+DTSTAMP:20260826T125638Z
+DTSTART;TZID=Europe/Berlin:20261119T200000
+DTEND;TZID=Europe/Berlin:20261120T000000
+SUMMARY:Bulgarian Cartrader
+DESCRIPTION:How to sell tickets fast online How to sell tickets fast online\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261119-bulgarian-cartrader/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261119-bulgarian-cartrader/
+END:VEVENT
+BEGIN:VEVENT
+UID:b7b7b53ed8908be73b69@columbia-theater.de
+DTSTAMP:20260826T125637Z
+DTSTART;TZID=Europe/Berlin:20261120T200000
+DTEND;TZID=Europe/Berlin:20261121T000000
+SUMMARY:Nie und Nimmer
+DESCRIPTION:Gute Dinge passieren Tour 2026 Gute Dinge passieren Tour 2026\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261120-nie-und-nimmer-2/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261120-nie-und-nimmer-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:237d2de77f37a3f95b29@columbia-theater.de
+DTSTAMP:20260826T125638Z
+DTSTART;TZID=Europe/Berlin:20261121T200000
+DTEND;TZID=Europe/Berlin:20261122T000000
+SUMMARY:Frida Gold
+DESCRIPTION:Tour 2026 Tour 2026\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261121-frida-gold/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261121-frida-gold/
+END:VEVENT
+BEGIN:VEVENT
+UID:991810cfbcc8b44eb72a@columbia-theater.de
+DTSTAMP:20260826T125638Z
+DTSTART;TZID=Europe/Berlin:20261122T200000
+DTEND;TZID=Europe/Berlin:20261123T000000
+SUMMARY:Long Distance Calling
+DESCRIPTION:Tour 2026 Tour 2026\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261122-long-distance-calling/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261122-long-distance-calling/
+END:VEVENT
+BEGIN:VEVENT
+UID:79b8625e7bc50b196050@columbia-theater.de
+DTSTAMP:20260826T125639Z
+DTSTART;TZID=Europe/Berlin:20261123T193000
+DTEND;TZID=Europe/Berlin:20261123T233000
+SUMMARY:Skipinnish
+DESCRIPTION:Live 2026 Live 2026\nEinlass: 18:30\nEvent: https://columbia-theater.de/event/20261123-skipinnish/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261123-skipinnish/
+END:VEVENT
+BEGIN:VEVENT
+UID:13c78a409a6320f0f800@columbia-theater.de
+DTSTAMP:20260826T125639Z
+DTSTART;TZID=Europe/Berlin:20261124T200000
+DTEND;TZID=Europe/Berlin:20261125T000000
+SUMMARY:Catt
+DESCRIPTION:Alive Alive\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261124-catt/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261124-catt/
+END:VEVENT
+BEGIN:VEVENT
+UID:ca8ef10d7d66c528fb91@columbia-theater.de
+DTSTAMP:20260826T125640Z
+DTSTART;TZID=Europe/Berlin:20261126T200000
+DTEND;TZID=Europe/Berlin:20261127T000000
+SUMMARY:Baby Lasagna
+DESCRIPTION:Einlass: 19:00\nEvent: https://columbia-theater.de/event/20261126-baby-lasagna/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261126-baby-lasagna/
+END:VEVENT
+BEGIN:VEVENT
+UID:b5e614dc54143a3714a5@columbia-theater.de
+DTSTAMP:20260826T125641Z
+DTSTART;TZID=Europe/Berlin:20261127T200000
+DTEND;TZID=Europe/Berlin:20261128T000000
+SUMMARY:Tonic Walter
+DESCRIPTION:Tour 2026 Tour 2026\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261127-tonic-walter/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261127-tonic-walter/
+END:VEVENT
+BEGIN:VEVENT
+UID:3d0a6e41f0e74507fabe@columbia-theater.de
+DTSTAMP:20260826T125641Z
+DTSTART;TZID=Europe/Berlin:20261128T200000
+DTEND;TZID=Europe/Berlin:20261129T000000
+SUMMARY:Nieve Ella
+DESCRIPTION:How Long Will It Take? | The Debut Album Tour How Long Will It Take? | The Debut Album Tour\nSupport: Sofia & The Antoinettes\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261128-nieve-ella/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261128-nieve-ella/
+END:VEVENT
+BEGIN:VEVENT
+UID:5d7c7cba4d9dab292c3c@columbia-theater.de
+DTSTAMP:20260826T125642Z
+DTSTART;TZID=Europe/Berlin:20261129T200000
+DTEND;TZID=Europe/Berlin:20261130T000000
+SUMMARY:Strongboi
+DESCRIPTION:Support: Salami Rose Joe Louis\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261129-strongboi/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261129-strongboi/
+END:VEVENT
+BEGIN:VEVENT
+UID:c0e3ac05589fc07b9261@columbia-theater.de
+DTSTAMP:20260826T125641Z
+DTSTART;TZID=Europe/Berlin:20261202T200000
+DTEND;TZID=Europe/Berlin:20261203T000000
+SUMMARY:Nervy
+DESCRIPTION:Einlass: 19:00\nEvent: https://columbia-theater.de/event/20261202-nervy/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261202-nervy/
+END:VEVENT
+BEGIN:VEVENT
+UID:de680c04f90ea9ac0675@columbia-theater.de
+DTSTAMP:20260826T125641Z
+DTSTART;TZID=Europe/Berlin:20261203T200000
+DTEND;TZID=Europe/Berlin:20261204T000000
+SUMMARY:Enno Bunger
+DESCRIPTION:40 Jahre Enno Bunger 40 Jahre Enno Bunger\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261203-enno-bunger/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261203-enno-bunger/
+END:VEVENT
+BEGIN:VEVENT
+UID:efaeb083f33b08c2e7ec@columbia-theater.de
+DTSTAMP:20260826T125641Z
+DTSTART;TZID=Europe/Berlin:20261204T200000
+DTEND;TZID=Europe/Berlin:20261205T000000
+SUMMARY:Steve 'n' Seagulls
+DESCRIPTION:The Dark Side of the Moo Part II The Dark Side of the Moo Part II\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261204-steve-n-seagulls/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261204-steve-n-seagulls/
+END:VEVENT
+BEGIN:VEVENT
+UID:f7167e233627cbd37a66@columbia-theater.de
+DTSTAMP:20260826T125642Z
+DTSTART;TZID=Europe/Berlin:20261206T200000
+DTEND;TZID=Europe/Berlin:20261207T000000
+SUMMARY:Julia Meladin
+DESCRIPTION:Rosarote Mauer Tour 2026 Rosarote Mauer Tour 2026\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261206-julia-meladin/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261206-julia-meladin/
+END:VEVENT
+BEGIN:VEVENT
+UID:71c6093ee9bf0217554f@columbia-theater.de
+DTSTAMP:20260826T125642Z
+DTSTART;TZID=Europe/Berlin:20261208T193000
+DTEND;TZID=Europe/Berlin:20261208T233000
+SUMMARY:Verivery
+DESCRIPTION:EUROPE TOUR 2026 – “GIVE ME FIVE\, KEEP THAT VIBE" EUROPE TOUR 2026 – “GIVE ME FIVE\, KEEP THAT VIBE"\nEinlass: 18:30\nEvent: https://columbia-theater.de/event/20261208-verivery/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261208-verivery/
+END:VEVENT
+BEGIN:VEVENT
+UID:961b4efdbaff9dc249ac@columbia-theater.de
+DTSTAMP:20260826T125650Z
+DTSTART;TZID=Europe/Berlin:20261210T193000
+DTEND;TZID=Europe/Berlin:20261210T233000
+SUMMARY:SOEN
+DESCRIPTION:Reliance Tour Reliance Tour\nSpecial Guest: + Tribulation + Vulkan\nEinlass: 18:30\nEvent: https://columbia-theater.de/event/20261210-soen/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261210-soen/
+END:VEVENT
+BEGIN:VEVENT
+UID:8585019946e5dff8ed13@columbia-theater.de
+DTSTAMP:20260826T125650Z
+DTSTART;TZID=Europe/Berlin:20261211T200000
+DTEND;TZID=Europe/Berlin:20261212T000000
+SUMMARY:Dillon
+DESCRIPTION:15th Anniversary of This Silence Kills 15th Anniversary of This Silence Kills\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261211-dillon/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261211-dillon/
+END:VEVENT
+BEGIN:VEVENT
+UID:d7fead1d9eacac8f9667@columbia-theater.de
+DTSTAMP:20260826T125651Z
+DTSTART;TZID=Europe/Berlin:20261212T200000
+DTEND;TZID=Europe/Berlin:20261213T000000
+SUMMARY:Goldroger
+DESCRIPTION:LIVE AUS DER LEERE 2026 LIVE AUS DER LEERE 2026\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261212-goldroger/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261212-goldroger/
+END:VEVENT
+BEGIN:VEVENT
+UID:7263d2a660908a9c7d4f@columbia-theater.de
+DTSTAMP:20260826T125651Z
+DTSTART;TZID=Europe/Berlin:20261218T200000
+DTEND;TZID=Europe/Berlin:20261219T000000
+SUMMARY:Erdmöbel
+DESCRIPTION:Weihnachtstour 2025 Weihnachtstour 2025\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261218-erdmoebel/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261218-erdmoebel/
+END:VEVENT
+BEGIN:VEVENT
+UID:6c52e0c4042b0ab4d95e@columbia-theater.de
+DTSTAMP:20260826T125651Z
+DTSTART;TZID=Europe/Berlin:20261228T200000
+DTEND;TZID=Europe/Berlin:20261229T000000
+SUMMARY:B-Tight
+DESCRIPTION:"Die besten Stücke" Tour 2026 "Die besten Stücke" Tour 2026\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261228-b-tight/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261228-b-tight/
+END:VEVENT
+BEGIN:VEVENT
+UID:cac0999800f408719ff8@columbia-theater.de
+DTSTAMP:20260826T125651Z
+DTSTART;TZID=Europe/Berlin:20261230T200000
+DTEND;TZID=Europe/Berlin:20261231T000000
+SUMMARY:Alexa Feser
+DESCRIPTION:Berlin B-Day Baby\, Teil 2. Kapitel neu. Berlin B-Day Baby\, Teil 2. Kapitel neu.\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20261230-alexa-feser/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20261230-alexa-feser/
+END:VEVENT
+BEGIN:VEVENT
+UID:e8995310c88075dc2655@columbia-theater.de
+DTSTAMP:20260826T125651Z
+DTSTART;TZID=Europe/Berlin:20270115T193000
+DTEND;TZID=Europe/Berlin:20270115T233000
+SUMMARY:Heavytones
+DESCRIPTION:25 Jahre - Die Tour 25 Jahre - Die Tour\nEinlass: 18:30\nEvent: https://columbia-theater.de/event/20270115-heavytones/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270115-heavytones/
+END:VEVENT
+BEGIN:VEVENT
+UID:dd80e71347dfeb6e43e8@columbia-theater.de
+DTSTAMP:20260826T125652Z
+DTSTART;TZID=Europe/Berlin:20270116T200000
+DTEND;TZID=Europe/Berlin:20270117T000000
+SUMMARY:Dice Actors Live on Stage
+DESCRIPTION:Einlass: 19:00\nEvent: https://columbia-theater.de/event/20270116-dice-actors-live-on-stage/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270116-dice-actors-live-on-stage/
+END:VEVENT
+BEGIN:VEVENT
+UID:3ea157d617427489b3a6@columbia-theater.de
+DTSTAMP:20260826T125650Z
+DTSTART;TZID=Europe/Berlin:20270120T200000
+DTEND;TZID=Europe/Berlin:20270121T000000
+SUMMARY:Kauta
+DESCRIPTION:KAUTour 2027 KAUTour 2027\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20270120-kauta/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270120-kauta/
+END:VEVENT
+BEGIN:VEVENT
+UID:52a925c7d1cf978e32db@columbia-theater.de
+DTSTAMP:20260826T125650Z
+DTSTART;TZID=Europe/Berlin:20270121T200000
+DTEND;TZID=Europe/Berlin:20270122T000000
+SUMMARY:Slow Pulp
+DESCRIPTION:Live 2027 Live 2027\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20270121-slow-pulp/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270121-slow-pulp/
+END:VEVENT
+BEGIN:VEVENT
+UID:14da2a8ea15ecfa8934d@columbia-theater.de
+DTSTAMP:20260826T125653Z
+DTSTART;TZID=Europe/Berlin:20270123T200000
+DTEND;TZID=Europe/Berlin:20270124T000000
+SUMMARY:Catch Your Breath
+DESCRIPTION:Not Broken Enough Tour 2027 Not Broken Enough Tour 2027\nOpener: Elijah\nSupport: Ocean Sleeper\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20270123-catch-your-breath/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270123-catch-your-breath/
+END:VEVENT
+BEGIN:VEVENT
+UID:71836cf10cb2e7e869e6@columbia-theater.de
+DTSTAMP:20260826T125627Z
+DTSTART;TZID=Europe/Berlin:20270124T200000
+DTEND;TZID=Europe/Berlin:20270125T000000
+SUMMARY:Anaïs
+DESCRIPTION:wünsch dir was - extrawünsche tour 2026 wünsch dir was - extrawünsche tour 2026\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20270124-anais-2/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270124-anais-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:6848067de62962b57626@columbia-theater.de
+DTSTAMP:20260826T125650Z
+DTSTART;TZID=Europe/Berlin:20270130T190000
+DTEND;TZID=Europe/Berlin:20270130T230000
+SUMMARY:Wage War
+DESCRIPTION:EUROPE / UK 2027 EUROPE / UK 2027\nSpecial Guests: Wind Walkers + Invent Animate\nEinlass: 18:00\nEvent: https://columbia-theater.de/event/20270130-wage-war/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270130-wage-war/
+END:VEVENT
+BEGIN:VEVENT
+UID:da40cd8bbfb72608927c@columbia-theater.de
+DTSTAMP:20260826T125650Z
+DTSTART;TZID=Europe/Berlin:20270204T200000
+DTEND;TZID=Europe/Berlin:20270205T000000
+SUMMARY:Delain
+DESCRIPTION:& Infected Rain & Infected Rain\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20270204-delain/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270204-delain/
+END:VEVENT
+BEGIN:VEVENT
+UID:d2074c7856dc5e2082b6@columbia-theater.de
+DTSTAMP:20260826T125653Z
+DTSTART;TZID=Europe/Berlin:20270215T200000
+DTEND;TZID=Europe/Berlin:20270216T000000
+SUMMARY:Dagny
+DESCRIPTION:Europe 2027 Europe 2027\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20270215-dagny/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270215-dagny/
+END:VEVENT
+BEGIN:VEVENT
+UID:37da2c94abc1c8842bba@columbia-theater.de
+DTSTAMP:20260826T125650Z
+DTSTART;TZID=Europe/Berlin:20270217T200000
+DTEND;TZID=Europe/Berlin:20270218T000000
+SUMMARY:Michael Schulte
+DESCRIPTION:BEAUTIFUL REASONS Tour 2027 BEAUTIFUL REASONS Tour 2027\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20270217-michael-schulte/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270217-michael-schulte/
+END:VEVENT
+BEGIN:VEVENT
+UID:872e95a24705d4f2371f@columbia-theater.de
+DTSTAMP:20260826T125650Z
+DTSTART;TZID=Europe/Berlin:20270218T200000
+DTEND;TZID=Europe/Berlin:20270219T000000
+SUMMARY:Knox
+DESCRIPTION:MIDWEST BEST TOUR MIDWEST BEST TOUR\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20270218-knox/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270218-knox/
+END:VEVENT
+BEGIN:VEVENT
+UID:12217ca35771d2a2439d@columbia-theater.de
+DTSTAMP:20260826T125652Z
+DTSTART;TZID=Europe/Berlin:20270222T200000
+DTEND;TZID=Europe/Berlin:20270223T000000
+SUMMARY:Melrose Avenue
+DESCRIPTION:Support: Arankai + Call me Amour\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20270222-melrose-avenue/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270222-melrose-avenue/
+END:VEVENT
+BEGIN:VEVENT
+UID:ef3c04bb181da45fb3c0@columbia-theater.de
+DTSTAMP:20260826T125653Z
+DTSTART;TZID=Europe/Berlin:20270223T200000
+DTEND;TZID=Europe/Berlin:20270224T000000
+SUMMARY:Bernth
+DESCRIPTION:Escape the Internet Tour II - 2027 Escape the Internet Tour II - 2027\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20270223-bernth/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270223-bernth/
+END:VEVENT
+BEGIN:VEVENT
+UID:81b2d15760e25404fbc5@columbia-theater.de
+DTSTAMP:20260826T125654Z
+DTSTART;TZID=Europe/Berlin:20270224T200000
+DTEND;TZID=Europe/Berlin:20270225T000000
+SUMMARY:Jaill
+DESCRIPTION:Live 2027 Live 2027\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20270224-jaill/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270224-jaill/
+END:VEVENT
+BEGIN:VEVENT
+UID:3d445bf4fc1d06acf197@columbia-theater.de
+DTSTAMP:20260826T125651Z
+DTSTART;TZID=Europe/Berlin:20270225T200000
+DTEND;TZID=Europe/Berlin:20270226T000000
+SUMMARY:Levka
+DESCRIPTION:Tour 2027 Tour 2027\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20270225-levka/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270225-levka/
+END:VEVENT
+BEGIN:VEVENT
+UID:b56fdb50df801b3c2f98@columbia-theater.de
+DTSTAMP:20260826T125652Z
+DTSTART;TZID=Europe/Berlin:20270227T200000
+DTEND;TZID=Europe/Berlin:20270228T000000
+SUMMARY:Schandmaul
+DESCRIPTION:Sternensegler Tour 2027 Sternensegler Tour 2027\nSpecial Guest: Gossenpoeten\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20270227-schandmaul/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270227-schandmaul/
+END:VEVENT
+BEGIN:VEVENT
+UID:7ab19af58195f73c33c1@columbia-theater.de
+DTSTAMP:20260826T125652Z
+DTSTART;TZID=Europe/Berlin:20270306T200000
+DTEND;TZID=Europe/Berlin:20270307T000000
+SUMMARY:Mamas Gun
+DESCRIPTION:Support: Mt Jones\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20270306-mamas-gun/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270306-mamas-gun/
+END:VEVENT
+BEGIN:VEVENT
+UID:7692466ae62e0e1db3f4@columbia-theater.de
+DTSTAMP:20260826T125652Z
+DTSTART;TZID=Europe/Berlin:20270307T200000
+DTEND;TZID=Europe/Berlin:20270308T000000
+SUMMARY:The Haunted Youth
+DESCRIPTION:Boys Cry Too Spring Tour Boys Cry Too Spring Tour\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20270307-the-haunted-youth/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270307-the-haunted-youth/
+END:VEVENT
+BEGIN:VEVENT
+UID:6819e5983f3b39ced3a1@columbia-theater.de
+DTSTAMP:20260826T125652Z
+DTSTART;TZID=Europe/Berlin:20270311T200000
+DTEND;TZID=Europe/Berlin:20270312T000000
+SUMMARY:Tränen
+DESCRIPTION:"Die Erde ist mein Traum" Tour 2027 "Die Erde ist mein Traum" Tour 2027\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20270311-traenen/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270311-traenen/
+END:VEVENT
+BEGIN:VEVENT
+UID:745e254eee037ae247c1@columbia-theater.de
+DTSTAMP:20260826T125653Z
+DTSTART;TZID=Europe/Berlin:20270312T200000
+DTEND;TZID=Europe/Berlin:20270313T000000
+SUMMARY:Zeromancer
+DESCRIPTION:Testimonial Tour 2027 Testimonial Tour 2027\nSpecial Guest: Lakeside X\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20270312-zeromancer/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270312-zeromancer/
+END:VEVENT
+BEGIN:VEVENT
+UID:05f848f79641a7d867e4@columbia-theater.de
+DTSTAMP:20260826T125653Z
+DTSTART;TZID=Europe/Berlin:20270320T200000
+DTEND;TZID=Europe/Berlin:20270321T000000
+SUMMARY:The Dead Daisies
+DESCRIPTION:Spring EU/UK Tour 2027 Spring EU/UK Tour 2027\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20270320-the-dead-daisies/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270320-the-dead-daisies/
+END:VEVENT
+BEGIN:VEVENT
+UID:8aa994aa5ab9d0c66739@columbia-theater.de
+DTSTAMP:20260826T125653Z
+DTSTART;TZID=Europe/Berlin:20270325T200000
+DTEND;TZID=Europe/Berlin:20270326T000000
+SUMMARY:KMFDM
+DESCRIPTION:Einlass: 19:00\nEvent: https://columbia-theater.de/event/20270325-kmfdm/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270325-kmfdm/
+END:VEVENT
+BEGIN:VEVENT
+UID:ef8fd3a2a72841e19a26@columbia-theater.de
+DTSTAMP:20260826T125628Z
+DTSTART;TZID=Europe/Berlin:20270402T200000
+DTEND;TZID=Europe/Berlin:20270403T000000
+SUMMARY:Lance Butters
+DESCRIPTION:Selfcare Selfcare\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20270402-lance-butters/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270402-lance-butters/
+END:VEVENT
+BEGIN:VEVENT
+UID:84e361eee771d1603f5f@columbia-theater.de
+DTSTAMP:20260826T125653Z
+DTSTART;TZID=Europe/Berlin:20270407T200000
+DTEND;TZID=Europe/Berlin:20270408T000000
+SUMMARY:Sarah Engels
+DESCRIPTION:Im On Fire Tour 2027 Im On Fire Tour 2027\nEinlass: 18:30\nEvent: https://columbia-theater.de/event/20270407-sarah-engels/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270407-sarah-engels/
+END:VEVENT
+BEGIN:VEVENT
+UID:66f3c72aa67b970e8c92@columbia-theater.de
+DTSTAMP:20260826T125653Z
+DTSTART;TZID=Europe/Berlin:20270409T200000
+DTEND;TZID=Europe/Berlin:20270410T000000
+SUMMARY:Kati K
+DESCRIPTION:Auf die Liebe Tour 2027 Auf die Liebe Tour 2027\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20270409-kati-k/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270409-kati-k/
+END:VEVENT
+BEGIN:VEVENT
+UID:91a33ed05a388af3fbfc@columbia-theater.de
+DTSTAMP:20260826T125702Z
+DTSTART;TZID=Europe/Berlin:20270410T193000
+DTEND;TZID=Europe/Berlin:20270410T233000
+SUMMARY:Josh.
+DESCRIPTION:Vertikal-Tour 2027 Vertikal-Tour 2027\nEinlass: 18:30\nEvent: https://columbia-theater.de/event/20270410-josh-2/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270410-josh-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:a1d59c13d257741132ea@columbia-theater.de
+DTSTAMP:20260826T125702Z
+DTSTART;TZID=Europe/Berlin:20270418T200000
+DTEND;TZID=Europe/Berlin:20270419T000000
+SUMMARY:Rodrigo y Gabriela
+DESCRIPTION:Einlass: 19:00\nEvent: https://columbia-theater.de/event/20270418-rodrigo-y-gabriela/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270418-rodrigo-y-gabriela/
+END:VEVENT
+BEGIN:VEVENT
+UID:f84c8a704e57693e954b@columbia-theater.de
+DTSTAMP:20260826T125703Z
+DTSTART;TZID=Europe/Berlin:20270422T203000
+DTEND;TZID=Europe/Berlin:20270423T003000
+SUMMARY:AND ONE
+DESCRIPTION:Bägtuse Ruts Tour 2027 Bägtuse Ruts Tour 2027\nEinlass: 19:30\nEvent: https://columbia-theater.de/event/20270422-and-one/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270422-and-one/
+END:VEVENT
+BEGIN:VEVENT
+UID:f0a7710268e8e40c0fde@columbia-theater.de
+DTSTAMP:20260826T125702Z
+DTSTART;TZID=Europe/Berlin:20270501T200000
+DTEND;TZID=Europe/Berlin:20270502T000000
+SUMMARY:Mo-Torres
+DESCRIPTION:„MINDESTENS FÜR IMMER – TOUR 2027“ „MINDESTENS FÜR IMMER – TOUR 2027“\nEinlass: 19:00\nEvent: https://columbia-theater.de/event/20270501-mo-torres/
+LOCATION:Columbia Theater\, Columbiadamm 9-11\, 10965 Berlin
+URL:https://columbia-theater.de/event/20270501-mo-torres/
+END:VEVENT
+END:VCALENDAR

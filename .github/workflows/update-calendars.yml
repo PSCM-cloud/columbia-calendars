@@ -1,6 +1,11 @@
 name: Update calendars
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "update_calendars.py"
+      - ".github/workflows/update-calendars.yml"
   schedule:
     - cron: "17 3 * * *"
   workflow_dispatch:

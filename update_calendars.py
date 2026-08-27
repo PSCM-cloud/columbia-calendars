@@ -161,18 +161,21 @@ def theater_events() -> list[str]:
     base = "https://columbia-theater.de/"
     doc = lxml_html.fromstring(get(base))
     urls = []
+    blocked_urls = set()
     for card in doc.xpath(
         "//a[contains(concat(' ',normalize-space(@class),' '),' item ')"
         " and contains(@href,'/event/')]"
     ):
+        event_url = urljoin(base, card.get("href"))
         statuses = card.xpath(
             ".//*[contains(concat(' ',normalize-space(@class),' '),' item-status ')]"
         )
         status = clean_text(statuses[0].text_content() if statuses else "").lower()
         if has_excluded_status(status):
+            blocked_urls.add(event_url)
             continue
-        urls.append(urljoin(base, card.get("href")))
-    urls = list(dict.fromkeys(urls))
+        urls.append(event_url)
+    urls = [url for url in dict.fromkeys(urls) if url not in blocked_urls]
     def load(url: str) -> str | None:
         try:
             return make_theater_event(url)
@@ -188,16 +191,19 @@ def halle_events() -> list[str]:
     base = "https://www.columbiahalle.berlin/events.html"
     doc = lxml_html.fromstring(get(base))
     urls = []
+    blocked_urls = set()
     for link in doc.xpath("//a[contains(normalize-space(.),'Calendar Entry')]"):
+        event_url = urljoin(base, link.get("href"))
         cards = link.xpath(
             "ancestor::div[contains(concat(' ',normalize-space(@class),' '),"
             "' eventlist_event ')][1]"
         )
         card_text = clean_text(cards[0].text_content()).lower() if cards else ""
         if has_excluded_status(card_text):
+            blocked_urls.add(event_url)
             continue
-        urls.append(urljoin(base, link.get("href")))
-    urls = list(dict.fromkeys(urls))
+        urls.append(event_url)
+    urls = [url for url in dict.fromkeys(urls) if url not in blocked_urls]
 
     def load(url: str) -> str | None:
         try:

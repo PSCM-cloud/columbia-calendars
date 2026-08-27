@@ -17,6 +17,24 @@ from lxml import html as lxml_html
 OUT = Path(__file__).resolve().parent
 TZ = ZoneInfo("Europe/Berlin")
 NOW = datetime.now(TZ)
+
+EXCLUDED_STATUS_MARKERS = (
+    "abgesagt",
+    "canceled",
+    "cancelled",
+    "verlegt",
+    "relocated",
+    "verschoben",
+    "postponed",
+    "rescheduled",
+)
+
+
+def has_excluded_status(value: str) -> bool:
+    normalized = clean_text(value).casefold()
+    return any(marker in normalized for marker in EXCLUDED_STATUS_MARKERS)
+
+
 def get(url: str) -> str:
     request = Request(
         url, headers={"User-Agent": "Mozilla/5.0 (compatible; ColumbiaCalendarExport/1.0)"}
@@ -151,9 +169,7 @@ def theater_events() -> list[str]:
             ".//*[contains(concat(' ',normalize-space(@class),' '),' item-status ')]"
         )
         status = clean_text(statuses[0].text_content() if statuses else "").lower()
-        if "canceled" in status or "abgesagt" in status:
-            continue
-        if "relocated" in status or "verlegt" in status:
+        if has_excluded_status(status):
             continue
         urls.append(urljoin(base, card.get("href")))
     urls = list(dict.fromkeys(urls))
@@ -178,7 +194,7 @@ def halle_events() -> list[str]:
             "' eventlist_event ')][1]"
         )
         card_text = clean_text(cards[0].text_content()).lower() if cards else ""
-        if "cancelled" in card_text or "canceled" in card_text:
+        if has_excluded_status(card_text):
             continue
         urls.append(urljoin(base, link.get("href")))
     urls = list(dict.fromkeys(urls))

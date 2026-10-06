@@ -6,19 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Columbiahalle – Upcoming Events
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-UID:7357@Columbiahalle
-DTSTAMP:20261005T103527Z
-DTSTART:20261005T180000Z
-DTEND:20261005T220000Z
-SUMMARY:Samu Haber
-DESCRIPTION:Early Entry: 18:30 Uhr\nReg. Einlass: 19:00 Uhr\nBeginn: 20:00 Uhr\nNach einem unvergesslichen Sommer 2025 voller magischer Konzerte\, über 100.000 verkauften Tickets und inspirierten Momenten geht Samu Haber 2026 endlich wieder auf große Tour durch die Hallen Europas.\nDie Tour startet im September in Finnland und führt den finnischen Sänger und Songwriter im Oktober in den Rest Europas – zu einer Mischung aus altbekannten Lieblingshallen und brandneuen Spielorten\, die er bislang noch nie betreten hat.\n„Der Sommer 2025 war die inspirierendste Zeit meines Lebens. Überall\, wo wir gespielt haben\, war die Stimmung unglaublich und jeder einzelne Abend war absolut fantastisch. Nach diesen heißen Nächten habe ich tausend Songideen im Kopf\, die ich kaum erwarten kann\, im Studio umzusetzen. Und in meinen Tagträumen habe ich schon gehört\, wie ich viele dieser neuen Songs mit den Menschen singe\, die ich diesen Sommer bei den Shows gesehen habe. Die Tour wird eine fantastische Mischung aus alten Lieblingsclubs und neuen Orten\, an denen ich noch nie gespielt habe. Der Sommer ist normalerweise meine liebste Jahreszeit\, aber im nächsten Jahr beginnt die beste Zeit im September“\, sagt Samu Haber.\nMit neuer Musik im Gepäck\, voller Energie und Vorfreude\, dürfen sich die Fans auf emotionale Abende zwischen bekannten Hits und frischen Songs des ehemaligen Sunrise Avenue-Frontmanns freuen.\nKarten sind erhältlich im Ticketshop: undercover.de\, telefonisch unter 0531 310 55 310 sowie an den bekannten Vorverkaufsstellen.
-LOCATION:Columbiahalle\, Columbiadamm 13-21\, 10965 Berlin
-GEO:52.4845171;13.3905217
-URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_7357
-END:VEVENT
-BEGIN:VEVENT
 UID:7360@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261006T180000Z
 DTEND:20261006T220000Z
 SUMMARY:Das Lumpenpack\, Bevor der Mut dich verlässt -Tour\, Support: Bruchbude
@@ -29,29 +18,18 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_7360
 END:VEVENT
 BEGIN:VEVENT
 UID:9733@Columbiahalle
-DTSTAMP:20261005T103527Z
-DTSTART:20261008T173000Z
+DTSTAMP:20261006T102754Z
+DTSTART:20261008T170000Z
 DTEND:20261008T220000Z
-SUMMARY:Myles smith\, My Mess\, My Heart\, My Life. Tour\, Support: Josie Edwards
+SUMMARY:Myles Smith\, My Mess\, My Heart\, My Life. Tour\, Support: Josie Edwards
 DESCRIPTION:Die Geschichte von Myles Smith klingt zunächst wie die von vielen Singer-Songwritern aus Großbritannien: Bereits als Kind fing er an zu singen\, brachte sich die Gitarre und das Klavier selbst bei und schrieb erste eigene Songs. Als Jugendlicher spielte er in Pubs\, um sich sein Taschengeld aufzubessern und gründete eine Indie-Band. Die Musik war zunächst jedoch nicht sein eigentliches Karriereziel\, weshalb er sich nach der Schule einem Soziologie- und Sozialpolitik-Studium widmete. Nebenbei begann er damit\, Coverversionen auf TikTok zu posten. Nach ersten viralen Videos zu Songs wie Amber Runs „I Found“ und The Neighbourhoods „Sweater Weather“ nahm sich Myles Smith vor\, die Musik doch zu seinem Beruf zu machen\, woraufhin er seinen Job kündigte. Es folgten erste Singles\, von denen „Solo“ ihn Ende 2023 erstmals in die britischen Single-Charts führte. Im März 2024 erschien seine Debüt-EP „You Promised a Lifetime“. Den großen Durchbruch und internationale Top-20-Platzierungen in den jeweiligen Single-Charts feierte Smith allerdings mit der folgenden Single „Stargazing“ im Mai des Jahres. Bereits im November 2024 folgte die zweite EP „A Minute …“\, mit der es der Singer-Songwriter in die britischen Charts sowie die Billboard 200 schaffte.\nAb 2025 widmete er sich einem größeren Projekt und begann mit der Arbeit an seinem Debütalbum „My Mess\, My Heart\, My Life.“\, das am 12. Juni 2026 erscheinen wird. Für Myles Smith repräsentiert „My Mess\, My Heart\, My Life.” das persönlichste und ambitionierteste Werk seiner bisherigen Karriere. Auf dem Album erforscht er emotionales Chaos\, Verletzlichkeit und das Gefühl der Befreiung\, das einem begegnet\, wenn man sich dem eigenen Leben direkt stellt. Es entspricht einer Reise durch die drei miteinander verbundenen Welten: „Mess“\, „Heart“ und „Life“. Mit Songs wie der Breakthrough-Single „Stargazing“\, dem introspektiven Duett „Drive Safe“ mit Niall Horan\, dem Fanfavoriten „Nice To Meet You“\, aber auch der beflügelnden Hymne „Gold“ sowie dem euphorischen „Stay (If You Wanna Dance)“ zementiert Myles Smith einmal mehr seine Reputation als emotional offener Songwritinger und kraftvoller\, melodischer Storyteller. Klare Schlussfolgerungen meidet er diesmal jedoch – wie er selbst kommentiert: „Eine der größten Veränderungen beim Schreiben dieses Albums war\, dem Drang zu widerstehen\, alles aufzulösen. Nicht jedes Gefühl hat eine Antwort\, und manchmal ist es am wirkungsvollsten\, einfach in dieser Emotion zu verweilen\, anstatt sie ordentlich zu verpacken.“\nAb dem Sommer 2026 wird Myles Smith sein neues Album auf der My Mess\, My Heart\, My Life. Tour präsentieren und die bisher größten Konzerte seiner Karriere spielen. Neben Headlineshows und Stadionauftritten im Vorprogramm von Ed Sheeran in Nordamerika führt es ihn im Oktober auch nach Europa und Großbritannien\, wo er das grandiose Finale der Tour im Londoner The 02 zelebrieren wird. Davor kommt Myles Smith auch nach Berlin\, Düsseldorf und Zürich.
 LOCATION:Columbiahalle\, Columbiadamm 13-21\, 10965 Berlin
 GEO:52.4845171;13.3905217
 URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9733
 END:VEVENT
 BEGIN:VEVENT
-UID:9732@Columbiahalle
-DTSTAMP:20261005T103527Z
-DTSTART:20261009T180000Z
-DTEND:20261009T220000Z
-SUMMARY:gims\, GIMS – EUROPA TOUR 2026
-DESCRIPTION:GIMS geht 2026 wieder auf Tour: mit neuer Musik und den größten Hits seiner Karriere. Er bringt genau das auf die Bühne\, was man von ihm erwartet: zeitlose Songs\, echte Musik und eine unvergessliche Show.\n\nSeit Jahren zählt er zu den erfolgreichsten Künstlern Europas. Milliarden Streams\, zahlreiche Hits und Songs\, die Generationen verbinden von „Sapés comme jamais“ bis zu aktuellen Releases wie „Ninao“\, „Seya“ und „Spider“. Live bringt er genau diese Mischung für junge und alte Fans: direkt\, nahbar und musikalisch auf den Punkt gebracht.
-LOCATION:Columbiahalle\, Columbiadamm 13-21\, 10965 Berlin
-GEO:52.4845171;13.3905217
-URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9732
-END:VEVENT
-BEGIN:VEVENT
 UID:7345@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261010T180000Z
 DTEND:20261010T220000Z
 SUMMARY:Bausa\, Tournado 2026
@@ -62,7 +40,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_7345
 END:VEVENT
 BEGIN:VEVENT
 UID:9773@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261015T180000Z
 DTEND:20261015T220000Z
 SUMMARY:Prinz Pi\, Abschiedstour\, Support: Laas
@@ -73,7 +51,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9773
 END:VEVENT
 BEGIN:VEVENT
 UID:9741@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261016T180000Z
 DTEND:20261016T220000Z
 SUMMARY:Prinz Pi\, Abschiedstour\, Support: Laas
@@ -84,7 +62,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9741
 END:VEVENT
 BEGIN:VEVENT
 UID:9719@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261018T180000Z
 DTEND:20261018T220000Z
 SUMMARY:The Hu\, Support: SKALD
@@ -95,7 +73,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9719
 END:VEVENT
 BEGIN:VEVENT
 UID:9705@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261019T180000Z
 DTEND:20261019T220000Z
 SUMMARY:The Sisters Of Mercy\, Support: SOFT PALMS
@@ -106,7 +84,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9705
 END:VEVENT
 BEGIN:VEVENT
 UID:9709@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261022T180000Z
 DTEND:20261022T220000Z
 SUMMARY:Deine Cousine\, Ich weiß wie dieser Abend endet\, Support: Alenna Rose
@@ -117,7 +95,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9709
 END:VEVENT
 BEGIN:VEVENT
 UID:9663@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261023T180000Z
 DTEND:20261023T220000Z
 SUMMARY:Behemoth & Dimmu Borgir\, In League With Satan Tour 2026\, Support: Dark Funeral
@@ -128,7 +106,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9663
 END:VEVENT
 BEGIN:VEVENT
 UID:7340@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261024T173000Z
 DTEND:20261024T220000Z
 SUMMARY:Ivo Martin\, MIT DIR WIRD MIR WARM TOUR 2026
@@ -139,7 +117,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_7340
 END:VEVENT
 BEGIN:VEVENT
 UID:9775@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261025T190000Z
 DTEND:20261025T230000Z
 SUMMARY:Levent Yüksel\, Live in Berlin
@@ -150,7 +128,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9775
 END:VEVENT
 BEGIN:VEVENT
 UID:9771@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261026T190000Z
 DTEND:20261026T230000Z
 SUMMARY:Ski Aggu\, Releaseshow
@@ -161,7 +139,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9771
 END:VEVENT
 BEGIN:VEVENT
 UID:9745@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261028T190000Z
 DTEND:20261028T230000Z
 SUMMARY:EBOW\, ARBAYT TOUR
@@ -172,7 +150,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9745
 END:VEVENT
 BEGIN:VEVENT
 UID:9747@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261030T190000Z
 DTEND:20261030T230000Z
 SUMMARY:badmómzjay\, Haus im Meer Tour
@@ -183,7 +161,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9747
 END:VEVENT
 BEGIN:VEVENT
 UID:9782@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261101T190000Z
 DTEND:20261101T230000Z
 SUMMARY:Tomora
@@ -194,7 +172,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9782
 END:VEVENT
 BEGIN:VEVENT
 UID:9731@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261102T190000Z
 DTEND:20261102T230000Z
 SUMMARY:Gentleman\, GRATITUDE TOUR 2026
@@ -205,7 +183,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9731
 END:VEVENT
 BEGIN:VEVENT
 UID:9744@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261104T190000Z
 DTEND:20261104T230000Z
 SUMMARY:Bastian Bielendorfer & Özcan Cosar\, Bratwurst & Baklava – Live
@@ -216,7 +194,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9744
 END:VEVENT
 BEGIN:VEVENT
 UID:8499@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261105T190000Z
 DTEND:20261105T230000Z
 SUMMARY:BEAST IN BLACK\, RESURRECTION TOUR 2026\, Support: FROZEN CROWN + Special Guest: SONATA ARTICA
@@ -227,7 +205,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_8499
 END:VEVENT
 BEGIN:VEVENT
 UID:9701@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261107T180000Z
 DTEND:20261107T230000Z
 SUMMARY:Enter Shikari\, Support: HOLDING ABSENCE + THE CALLOUS DAOBOYS
@@ -238,7 +216,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9701
 END:VEVENT
 BEGIN:VEVENT
 UID:9770@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261108T190000Z
 DTEND:20261108T230000Z
 SUMMARY:EsDeekid\, Council House Rat Tour
@@ -249,7 +227,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9770
 END:VEVENT
 BEGIN:VEVENT
 UID:9739@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261109T190000Z
 DTEND:20261109T230000Z
 SUMMARY:Bleachers\, Bleachers Forever EU/UK 2026
@@ -260,7 +238,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9739
 END:VEVENT
 BEGIN:VEVENT
 UID:9740@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261110T190000Z
 DTEND:20261110T230000Z
 SUMMARY:Bleachers\, Bleachers Forever EU/UK 2026
@@ -271,7 +249,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9740
 END:VEVENT
 BEGIN:VEVENT
 UID:9715@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261111T183000Z
 DTEND:20261111T230000Z
 SUMMARY:Shinedown\, Dance\, Kid\, Dance Act II\, Support: Those Damn Crows
@@ -282,7 +260,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9715
 END:VEVENT
 BEGIN:VEVENT
 UID:7321@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261113T180000Z
 DTEND:20261113T230000Z
 SUMMARY:Hämatom\, Gagamania Tour 2026
@@ -293,7 +271,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_7321
 END:VEVENT
 BEGIN:VEVENT
 UID:9750@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261114T190000Z
 DTEND:20261114T230000Z
 SUMMARY:Tove Lo\, ESTRUS\, Support: Rose Gray
@@ -304,7 +282,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9750
 END:VEVENT
 BEGIN:VEVENT
 UID:9757@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261115T183000Z
 DTEND:20261115T230000Z
 SUMMARY:Hatebreed x Life Of Agony\, East Coast Assault On Europe Tour 2026
@@ -315,7 +293,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9757
 END:VEVENT
 BEGIN:VEVENT
 UID:9766@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261116T190000Z
 DTEND:20261116T230000Z
 SUMMARY:Saint Levant\, AFANDI WORLD TOUR
@@ -326,7 +304,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9766
 END:VEVENT
 BEGIN:VEVENT
 UID:9755@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261118T190000Z
 DTEND:20261118T230000Z
 SUMMARY:Apsilon\, Glanz Null
@@ -337,7 +315,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9755
 END:VEVENT
 BEGIN:VEVENT
 UID:9706@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261119T190000Z
 DTEND:20261119T230000Z
 SUMMARY:Apsilon\, Glanz Null
@@ -348,7 +326,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9706
 END:VEVENT
 BEGIN:VEVENT
 UID:9716@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261120T190000Z
 DTEND:20261120T230000Z
 SUMMARY:José González\, "Against The Dying Of The Light“-Tour 2026
@@ -359,7 +337,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9716
 END:VEVENT
 BEGIN:VEVENT
 UID:7264@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261121T190000Z
 DTEND:20261121T230000Z
 SUMMARY:Brings
@@ -370,7 +348,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_7264
 END:VEVENT
 BEGIN:VEVENT
 UID:9765@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261122T190000Z
 DTEND:20261122T230000Z
 SUMMARY:BOY HARSHER\, Support: CHOIR BOY\, Curses
@@ -381,7 +359,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9765
 END:VEVENT
 BEGIN:VEVENT
 UID:9742@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261124T190000Z
 DTEND:20261124T230000Z
 SUMMARY:Portugal. The Man\, The Denali Tour
@@ -392,7 +370,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9742
 END:VEVENT
 BEGIN:VEVENT
 UID:9683@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261126T190000Z
 DTEND:20261126T230000Z
 SUMMARY:GROSSSTADTGEFLÜSTER\, 23 2/3 Jahre Grossstadtgeflüster Jubiläumstour 2026
@@ -403,7 +381,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9683
 END:VEVENT
 BEGIN:VEVENT
 UID:7314@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261127T190000Z
 DTEND:20261127T230000Z
 SUMMARY:GROSSSTADTGEFLÜSTER\, 23 2/3 Jahre Grossstadtgeflüster Jubiläumstour 2026
@@ -414,7 +392,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_7314
 END:VEVENT
 BEGIN:VEVENT
 UID:9681@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261128T190000Z
 DTEND:20261128T230000Z
 SUMMARY:Fatoni\, DRAMA ENDET NIE TOUR 2026
@@ -425,7 +403,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9681
 END:VEVENT
 BEGIN:VEVENT
 UID:9708@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261129T190000Z
 DTEND:20261129T230000Z
 SUMMARY:Filow\, Filow Tour 2026 - Keine Tour macht arm
@@ -436,7 +414,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9708
 END:VEVENT
 BEGIN:VEVENT
 UID:9690@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261202T190000Z
 DTEND:20261202T230000Z
 SUMMARY:SIDOS WEIHNACHTSSHOW 2026\, Eine Tradition kehrt zurück
@@ -447,7 +425,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9690
 END:VEVENT
 BEGIN:VEVENT
 UID:9691@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261203T190000Z
 DTEND:20261203T230000Z
 SUMMARY:SIDOS WEIHNACHTSSHOW 2026\, Eine Tradition kehrt zurück
@@ -458,7 +436,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9691
 END:VEVENT
 BEGIN:VEVENT
 UID:9667@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261204T190000Z
 DTEND:20261204T230000Z
 SUMMARY:SIDOs Weihnachtsshow 2026\, Eine Tradition kehrt zurück
@@ -469,7 +447,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9667
 END:VEVENT
 BEGIN:VEVENT
 UID:9668@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261205T190000Z
 DTEND:20261205T230000Z
 SUMMARY:SIDOs Weihnachtsshow 2026\, Eine Tradition kehrt zurück
@@ -480,7 +458,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9668
 END:VEVENT
 BEGIN:VEVENT
 UID:9669@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261206T190000Z
 DTEND:20261206T230000Z
 SUMMARY:SIDOs Weihnachtsshow 2026\, Eine Tradition kehrt zurück
@@ -491,7 +469,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9669
 END:VEVENT
 BEGIN:VEVENT
 UID:9718@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261208T190000Z
 DTEND:20261208T230000Z
 SUMMARY:SIDOs Weihnachtsshow 2026\, Eine Tradition kehrt zurück
@@ -502,7 +480,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9718
 END:VEVENT
 BEGIN:VEVENT
 UID:9670@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261209T190000Z
 DTEND:20261209T230000Z
 SUMMARY:SIDOs Weihnachtsshow 2026\, Eine Tradition kehrt zurück
@@ -513,7 +491,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9670
 END:VEVENT
 BEGIN:VEVENT
 UID:9671@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261210T190000Z
 DTEND:20261210T230000Z
 SUMMARY:SIDOs Weihnachtsshow 2026\, Eine Tradition kehrt zurück
@@ -524,7 +502,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9671
 END:VEVENT
 BEGIN:VEVENT
 UID:8491@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102755Z
 DTSTART:20261211T190000Z
 DTEND:20261211T230000Z
 SUMMARY:SIDOS WEIHNACHTSSHOW 2026\, Eine Tradition kehrt zurück
@@ -535,7 +513,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_8491
 END:VEVENT
 BEGIN:VEVENT
 UID:8492@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102754Z
 DTSTART:20261212T190000Z
 DTEND:20261212T230000Z
 SUMMARY:SIDOS WEIHNACHTSSHOW 2026\, Eine Tradition kehrt zurück
@@ -546,7 +524,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_8492
 END:VEVENT
 BEGIN:VEVENT
 UID:8493@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102755Z
 DTSTART:20261213T190000Z
 DTEND:20261213T230000Z
 SUMMARY:SIDOS WEIHNACHTSSHOW 2026\, Eine Tradition kehrt zurück
@@ -557,7 +535,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_8493
 END:VEVENT
 BEGIN:VEVENT
 UID:8494@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102755Z
 DTSTART:20261215T190000Z
 DTEND:20261215T230000Z
 SUMMARY:SIDOS WEIHNACHTSSHOW 2026\, Eine Tradition kehrt zurück
@@ -568,7 +546,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_8494
 END:VEVENT
 BEGIN:VEVENT
 UID:8495@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102755Z
 DTSTART:20261216T190000Z
 DTEND:20261216T230000Z
 SUMMARY:SIDOS WEIHNACHTSSHOW 2026\, Eine Tradition kehrt zurück
@@ -579,7 +557,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_8495
 END:VEVENT
 BEGIN:VEVENT
 UID:7362@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102755Z
 DTSTART:20261218T190000Z
 DTEND:20261218T230000Z
 SUMMARY:Sidos Weihnachtsshow 2026\, Eine Tradition kehrt zurück
@@ -590,7 +568,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_7362
 END:VEVENT
 BEGIN:VEVENT
 UID:7363@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102755Z
 DTSTART:20261219T190000Z
 DTEND:20261219T230000Z
 SUMMARY:Sidos Weihnachtsshow 2026\, Eine Tradition kehrt zurück
@@ -601,7 +579,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_7363
 END:VEVENT
 BEGIN:VEVENT
 UID:7364@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102755Z
 DTSTART:20261220T190000Z
 DTEND:20261220T230000Z
 SUMMARY:Sidos Weihnachtsshow 2026\, Eine Tradition kehrt zurück
@@ -612,7 +590,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_7364
 END:VEVENT
 BEGIN:VEVENT
 UID:7366@Columbiahalle
-DTSTAMP:20261005T103527Z
+DTSTAMP:20261006T102755Z
 DTSTART:20261221T190000Z
 DTEND:20261221T230000Z
 SUMMARY:Sidos Weihnachtsshow 2026\, Eine Tradition kehrt zurück
@@ -623,7 +601,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_7366
 END:VEVENT
 BEGIN:VEVENT
 UID:7367@Columbiahalle
-DTSTAMP:20261005T103528Z
+DTSTAMP:20261006T102755Z
 DTSTART:20261222T190000Z
 DTEND:20261222T230000Z
 SUMMARY:Sidos Weihnachtsshow 2026\, Eine Tradition kehrt zurück
@@ -634,7 +612,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_7367
 END:VEVENT
 BEGIN:VEVENT
 UID:9758@Columbiahalle
-DTSTAMP:20261005T103528Z
+DTSTAMP:20261006T102755Z
 DTSTART:20261228T190000Z
 DTEND:20261228T230000Z
 SUMMARY:Crucchi Gang\, ALLA SPIAGGIA IN DICEMBRE CON LA CRUCCHI GANG
@@ -645,7 +623,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9758
 END:VEVENT
 BEGIN:VEVENT
 UID:9734@Columbiahalle
-DTSTAMP:20261005T103528Z
+DTSTAMP:20261006T102755Z
 DTSTART:20270124T190000Z
 DTEND:20270124T230000Z
 SUMMARY:Takida\, SECTION 7 TOUR\, Support: AD INFITUM
@@ -656,7 +634,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9734
 END:VEVENT
 BEGIN:VEVENT
 UID:9753@Columbiahalle
-DTSTAMP:20261005T103528Z
+DTSTAMP:20261006T102755Z
 DTSTART:20270129T183000Z
 DTEND:20270129T230000Z
 SUMMARY:Imminence\, EUROPE 2027\, Support: TBA
@@ -667,7 +645,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9753
 END:VEVENT
 BEGIN:VEVENT
 UID:9762@Columbiahalle
-DTSTAMP:20261005T103528Z
+DTSTAMP:20261006T102755Z
 DTSTART:20270207T180000Z
 DTEND:20270207T230000Z
 SUMMARY:BURY TOMORROW\, Support: + Special Guests: STICK TO YOUR GUNS + ELWOOD STRAY + WINDWAKER
@@ -678,7 +656,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9762
 END:VEVENT
 BEGIN:VEVENT
 UID:9746@Columbiahalle
-DTSTAMP:20261005T103528Z
+DTSTAMP:20261006T102755Z
 DTSTART:20270208T181500Z
 DTEND:20270208T230000Z
 SUMMARY:Two Door Cinema Club\, 15th Anniversary Tour\, Support: The Royston Club
@@ -689,7 +667,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9746
 END:VEVENT
 BEGIN:VEVENT
 UID:9767@Columbiahalle
-DTSTAMP:20261005T103528Z
+DTSTAMP:20261006T102755Z
 DTSTART:20270211T190000Z
 DTEND:20270211T230000Z
 SUMMARY:Editors
@@ -700,7 +678,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9767
 END:VEVENT
 BEGIN:VEVENT
 UID:9764@Columbiahalle
-DTSTAMP:20261005T103528Z
+DTSTAMP:20261006T102755Z
 DTSTART:20270213T190000Z
 DTEND:20270213T230000Z
 SUMMARY:EZRA COLLECTIVE\, Here Because of Hope Tour
@@ -711,7 +689,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9764
 END:VEVENT
 BEGIN:VEVENT
 UID:9777@Columbiahalle
-DTSTAMP:20261005T103528Z
+DTSTAMP:20261006T102755Z
 DTSTART:20270219T190000Z
 DTEND:20270219T230000Z
 SUMMARY:MALCOLM TODD\, Do That Again Tour\, Support: Natanya
@@ -722,7 +700,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9777
 END:VEVENT
 BEGIN:VEVENT
 UID:9748@Columbiahalle
-DTSTAMP:20261005T103528Z
+DTSTAMP:20261006T102755Z
 DTSTART:20270312T190000Z
 DTEND:20270312T230000Z
 SUMMARY:Team Scheisse
@@ -733,7 +711,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9748
 END:VEVENT
 BEGIN:VEVENT
 UID:9780@Columbiahalle
-DTSTAMP:20261005T103528Z
+DTSTAMP:20261006T102755Z
 DTSTART:20270317T190000Z
 DTEND:20270317T230000Z
 SUMMARY:Lizzy McAlpine\, The Over Country 2027
@@ -744,7 +722,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9780
 END:VEVENT
 BEGIN:VEVENT
 UID:9760@Columbiahalle
-DTSTAMP:20261005T103528Z
+DTSTAMP:20261006T102755Z
 DTSTART:20270320T190000Z
 DTEND:20270320T230000Z
 SUMMARY:OG Keemo\, 360GRADTour
@@ -755,7 +733,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9760
 END:VEVENT
 BEGIN:VEVENT
 UID:9781@Columbiahalle
-DTSTAMP:20261005T103528Z
+DTSTAMP:20261006T102755Z
 DTSTART:20270322T190000Z
 DTEND:20270322T230000Z
 SUMMARY:Nessa Barrett
@@ -766,7 +744,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9781
 END:VEVENT
 BEGIN:VEVENT
 UID:9761@Columbiahalle
-DTSTAMP:20261005T103528Z
+DTSTAMP:20261006T102755Z
 DTSTART:20270402T180000Z
 DTEND:20270402T220000Z
 SUMMARY:Leoniden
@@ -777,7 +755,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9761
 END:VEVENT
 BEGIN:VEVENT
 UID:9778@Columbiahalle
-DTSTAMP:20261005T103528Z
+DTSTAMP:20261006T102755Z
 DTSTART:20270413T180000Z
 DTEND:20270413T220000Z
 SUMMARY:Snarky Puppy\, SNARKY PUPPY Live 2022
@@ -788,7 +766,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9778
 END:VEVENT
 BEGIN:VEVENT
 UID:9749@Columbiahalle
-DTSTAMP:20261005T103528Z
+DTSTAMP:20261006T102755Z
 DTSTART:20270418T180000Z
 DTEND:20270418T220000Z
 SUMMARY:Bibiza\, LIVE 2027
@@ -799,7 +777,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9749
 END:VEVENT
 BEGIN:VEVENT
 UID:9768@Columbiahalle
-DTSTAMP:20261005T103528Z
+DTSTAMP:20261006T102755Z
 DTSTART:20270424T170000Z
 DTEND:20270424T220000Z
 SUMMARY:MINISTRY\, HATE TO GO - GOODBYE EUROPE 2027\, Support: DIE KRUPPS
@@ -809,8 +787,19 @@ GEO:52.4845171;13.3905217
 URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9768
 END:VEVENT
 BEGIN:VEVENT
+UID:9784@Columbiahalle
+DTSTAMP:20261006T102755Z
+DTSTART:20270429T180000Z
+DTEND:20270429T220000Z
+SUMMARY:Fuffifufzich\, New Era Same Error
+DESCRIPTION:\n„NEW ERA SAME ERROR“ ist Zeugnis einer menschlichen Entwicklung in Albumform. Ein elegisches\, humorvolles\, herzliches Kunststück\, eine Einsicht: Egal\, wo wir neue Erfahrungen sammeln\, unser altes Gepäck nehmen wir immer mit. Das ist so deep wie ernst und wahr. Also ciao dada\, ciao gaga? Müssen Wahrhaftigkeit und Reife gleich Ernsthaftigkeit bedeuten? Nun\, wie ein alter Grieche wohl einst am Fluss gesagt haben muss: Alles verändert sich – und bleibt doch im Grunde\, wie es war. Fuffis augenzwinkernder\, flirtiver Charme ist unvergänglich\, wird von der neugewonnenen Zartheit nur veredelt. Auch wenn jedem Anfang eine Prise Zauberstaub innewohnt: „Überall wo ich hingéh\, überall bin ich dabei“\, singt Fuffi in gewohnt schräger Silbenbetonung auf „Same Error“ und Lassie-Singers-Legende Christiane Rösinger krönt den Song mit Punkweisheiten. Inmitten einer Industrie\, die alternde und ältere Stimmen gerne verschwinden lässt\, inspiriert „NEW ERA SAME ERROR“ dazu\, neben der Impulsivität der Jugend auch die Erfahrung des Alters wertzuschätzen. Die Weisen aus Fuffis Ältestenrat haben den Walzer der Abschiede und Neuanfänge schließlich schon einige Male öfter im Kreis getanzt als viele von uns – sie müssen es also wissen – und unterstützen Fuffifufzich beim panoramischen Weitblick aufs Leben. Am Horizont schimmert ewig die Hoffnung: Selbst wenn nichts ist\, wie es einmal war\, selbst wenn auf einmal alles anders ist: Love is forever.\nPräsentiert von Radioeins\, ByteFM\, Diffus\, Rausgegangen\, Bedroomdisco\n\nFotocredit: Julian Essink
+LOCATION:Columbiahalle\, Columbiadamm 13-21\, 10965 Berlin
+GEO:52.4845171;13.3905217
+URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9784
+END:VEVENT
+BEGIN:VEVENT
 UID:9776@Columbiahalle
-DTSTAMP:20261005T103528Z
+DTSTAMP:20261006T102755Z
 DTSTART:20270507T180000Z
 DTEND:20270507T220000Z
 SUMMARY:RAPK\, LIVE 2026
@@ -820,8 +809,19 @@ GEO:52.4845171;13.3905217
 URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9776
 END:VEVENT
 BEGIN:VEVENT
+UID:9785@Columbiahalle
+DTSTAMP:20261006T102755Z
+DTSTART:20271022T180000Z
+DTEND:20271022T220000Z
+SUMMARY:Eisbrecher
+DESCRIPTION:VVK Start: Mi. 07.10. - 12.00
+LOCATION:Columbiahalle\, Columbiadamm 13-21\, 10965 Berlin
+GEO:52.4845171;13.3905217
+URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9785
+END:VEVENT
+BEGIN:VEVENT
 UID:9735@Columbiahalle
-DTSTAMP:20261005T103528Z
+DTSTAMP:20261006T102755Z
 DTSTART:20271127T190000Z
 DTEND:20271127T230000Z
 SUMMARY:SIND
@@ -832,7 +832,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9735
 END:VEVENT
 BEGIN:VEVENT
 UID:9687@Columbiahalle
-DTSTAMP:20261005T103528Z
+DTSTAMP:20261006T102755Z
 DTSTART:20301228T190000Z
 DTEND:20301228T230000Z
 SUMMARY:TZK\, TZKolumbiahalle 2030

@@ -7,7 +7,7 @@ X-WR-CALNAME:Columbiahalle – Upcoming Events
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
 UID:9681@Columbiahalle
-DTSTAMP:20261126T124633Z
+DTSTAMP:20261127T123947Z
 DTSTART:20261128T190000Z
 DTEND:20261128T230000Z
 SUMMARY:Fatoni\, DRAMA ENDET NIE TOUR 2026
@@ -18,7 +18,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9681
 END:VEVENT
 BEGIN:VEVENT
 UID:9708@Columbiahalle
-DTSTAMP:20261126T124633Z
+DTSTAMP:20261127T123947Z
 DTSTART:20261129T190000Z
 DTEND:20261129T230000Z
 SUMMARY:Filow\, Filow Tour 2026 - Keine Tour macht arm\, Support: MCR-T
@@ -29,7 +29,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9708
 END:VEVENT
 BEGIN:VEVENT
 UID:9690@Columbiahalle
-DTSTAMP:20261126T124634Z
+DTSTAMP:20261127T123947Z
 DTSTART:20261202T190000Z
 DTEND:20261202T230000Z
 SUMMARY:SIDOS WEIHNACHTSSHOW 2026\, Eine Tradition kehrt zurück
@@ -40,7 +40,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9690
 END:VEVENT
 BEGIN:VEVENT
 UID:9691@Columbiahalle
-DTSTAMP:20261126T124634Z
+DTSTAMP:20261127T123947Z
 DTSTART:20261203T190000Z
 DTEND:20261203T230000Z
 SUMMARY:SIDOS WEIHNACHTSSHOW 2026\, Eine Tradition kehrt zurück
@@ -51,7 +51,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9691
 END:VEVENT
 BEGIN:VEVENT
 UID:9667@Columbiahalle
-DTSTAMP:20261126T124633Z
+DTSTAMP:20261127T123947Z
 DTSTART:20261204T190000Z
 DTEND:20261204T230000Z
 SUMMARY:SIDOs Weihnachtsshow 2026\, Eine Tradition kehrt zurück
@@ -62,7 +62,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9667
 END:VEVENT
 BEGIN:VEVENT
 UID:9668@Columbiahalle
-DTSTAMP:20261126T124633Z
+DTSTAMP:20261127T123947Z
 DTSTART:20261205T190000Z
 DTEND:20261205T230000Z
 SUMMARY:SIDOs Weihnachtsshow 2026\, Eine Tradition kehrt zurück
@@ -73,7 +73,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9668
 END:VEVENT
 BEGIN:VEVENT
 UID:9669@Columbiahalle
-DTSTAMP:20261126T124633Z
+DTSTAMP:20261127T123947Z
 DTSTART:20261206T190000Z
 DTEND:20261206T230000Z
 SUMMARY:SIDOs Weihnachtsshow 2026\, Eine Tradition kehrt zurück
@@ -84,7 +84,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9669
 END:VEVENT
 BEGIN:VEVENT
 UID:9718@Columbiahalle
-DTSTAMP:20261126T124634Z
+DTSTAMP:20261127T123947Z
 DTSTART:20261208T190000Z
 DTEND:20261208T230000Z
 SUMMARY:SIDOs Weihnachtsshow 2026\, Eine Tradition kehrt zurück
@@ -95,7 +95,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9718
 END:VEVENT
 BEGIN:VEVENT
 UID:9670@Columbiahalle
-DTSTAMP:20261126T124633Z
+DTSTAMP:20261127T123948Z
 DTSTART:20261209T190000Z
 DTEND:20261209T230000Z
 SUMMARY:SIDOs Weihnachtsshow 2026\, Eine Tradition kehrt zurück
@@ -106,7 +106,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9670
 END:VEVENT
 BEGIN:VEVENT
 UID:9671@Columbiahalle
-DTSTAMP:20261126T124633Z
+DTSTAMP:20261127T123947Z
 DTSTART:20261210T190000Z
 DTEND:20261210T230000Z
 SUMMARY:SIDOs Weihnachtsshow 2026\, Eine Tradition kehrt zurück
@@ -117,7 +117,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9671
 END:VEVENT
 BEGIN:VEVENT
 UID:8491@Columbiahalle
-DTSTAMP:20261126T124634Z
+DTSTAMP:20261127T123948Z
 DTSTART:20261211T190000Z
 DTEND:20261211T230000Z
 SUMMARY:SIDOS WEIHNACHTSSHOW 2026\, Eine Tradition kehrt zurück
@@ -128,7 +128,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_8491
 END:VEVENT
 BEGIN:VEVENT
 UID:8492@Columbiahalle
-DTSTAMP:20261126T124633Z
+DTSTAMP:20261127T123947Z
 DTSTART:20261212T190000Z
 DTEND:20261212T230000Z
 SUMMARY:SIDOS WEIHNACHTSSHOW 2026\, Eine Tradition kehrt zurück
@@ -139,7 +139,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_8492
 END:VEVENT
 BEGIN:VEVENT
 UID:8493@Columbiahalle
-DTSTAMP:20261126T124633Z
+DTSTAMP:20261127T123947Z
 DTSTART:20261213T190000Z
 DTEND:20261213T230000Z
 SUMMARY:SIDOS WEIHNACHTSSHOW 2026\, Eine Tradition kehrt zurück
@@ -150,7 +150,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_8493
 END:VEVENT
 BEGIN:VEVENT
 UID:8494@Columbiahalle
-DTSTAMP:20261126T124633Z
+DTSTAMP:20261127T123947Z
 DTSTART:20261215T190000Z
 DTEND:20261215T230000Z
 SUMMARY:SIDOS WEIHNACHTSSHOW 2026\, Eine Tradition kehrt zurück
@@ -161,7 +161,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_8494
 END:VEVENT
 BEGIN:VEVENT
 UID:8495@Columbiahalle
-DTSTAMP:20261126T124633Z
+DTSTAMP:20261127T123948Z
 DTSTART:20261216T190000Z
 DTEND:20261216T230000Z
 SUMMARY:SIDOS WEIHNACHTSSHOW 2026\, Eine Tradition kehrt zurück
@@ -172,7 +172,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_8495
 END:VEVENT
 BEGIN:VEVENT
 UID:7362@Columbiahalle
-DTSTAMP:20261126T124633Z
+DTSTAMP:20261127T123947Z
 DTSTART:20261218T190000Z
 DTEND:20261218T230000Z
 SUMMARY:Sidos Weihnachtsshow 2026\, Eine Tradition kehrt zurück
@@ -183,7 +183,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_7362
 END:VEVENT
 BEGIN:VEVENT
 UID:7363@Columbiahalle
-DTSTAMP:20261126T124633Z
+DTSTAMP:20261127T123947Z
 DTSTART:20261219T190000Z
 DTEND:20261219T230000Z
 SUMMARY:Sidos Weihnachtsshow 2026\, Eine Tradition kehrt zurück
@@ -194,7 +194,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_7363
 END:VEVENT
 BEGIN:VEVENT
 UID:7364@Columbiahalle
-DTSTAMP:20261126T124633Z
+DTSTAMP:20261127T123947Z
 DTSTART:20261220T190000Z
 DTEND:20261220T230000Z
 SUMMARY:Sidos Weihnachtsshow 2026\, Eine Tradition kehrt zurück
@@ -205,7 +205,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_7364
 END:VEVENT
 BEGIN:VEVENT
 UID:7366@Columbiahalle
-DTSTAMP:20261126T124633Z
+DTSTAMP:20261127T123947Z
 DTSTART:20261221T190000Z
 DTEND:20261221T230000Z
 SUMMARY:Sidos Weihnachtsshow 2026\, Eine Tradition kehrt zurück
@@ -216,7 +216,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_7366
 END:VEVENT
 BEGIN:VEVENT
 UID:7367@Columbiahalle
-DTSTAMP:20261126T124633Z
+DTSTAMP:20261127T123947Z
 DTSTART:20261222T190000Z
 DTEND:20261222T230000Z
 SUMMARY:Sidos Weihnachtsshow 2026\, Eine Tradition kehrt zurück
@@ -227,7 +227,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_7367
 END:VEVENT
 BEGIN:VEVENT
 UID:9758@Columbiahalle
-DTSTAMP:20261126T124633Z
+DTSTAMP:20261127T123947Z
 DTSTART:20261228T190000Z
 DTEND:20261228T230000Z
 SUMMARY:Crucchi Gang\, ALLA SPIAGGIA IN DICEMBRE CON LA CRUCCHI GANG
@@ -238,7 +238,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9758
 END:VEVENT
 BEGIN:VEVENT
 UID:9734@Columbiahalle
-DTSTAMP:20261126T124634Z
+DTSTAMP:20261127T123947Z
 DTSTART:20270124T190000Z
 DTEND:20270124T230000Z
 SUMMARY:Takida\, SECTION 7 TOUR\, Support: AD INFITUM
@@ -249,7 +249,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9734
 END:VEVENT
 BEGIN:VEVENT
 UID:9753@Columbiahalle
-DTSTAMP:20261126T124633Z
+DTSTAMP:20261127T123947Z
 DTSTART:20270129T183000Z
 DTEND:20270129T230000Z
 SUMMARY:Imminence\, EUROPE 2027\, Support: TBA
@@ -260,7 +260,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9753
 END:VEVENT
 BEGIN:VEVENT
 UID:9762@Columbiahalle
-DTSTAMP:20261126T124634Z
+DTSTAMP:20261127T123947Z
 DTSTART:20270207T180000Z
 DTEND:20270207T230000Z
 SUMMARY:BURY TOMORROW\, Support: + Special Guests: STICK TO YOUR GUNS + ELWOOD STRAY + WINDWAKER
@@ -271,7 +271,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9762
 END:VEVENT
 BEGIN:VEVENT
 UID:9746@Columbiahalle
-DTSTAMP:20261126T124633Z
+DTSTAMP:20261127T123947Z
 DTSTART:20270208T181500Z
 DTEND:20270208T230000Z
 SUMMARY:Two Door Cinema Club\, 15th Anniversary Tour\, Support: The Royston Club
@@ -282,7 +282,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9746
 END:VEVENT
 BEGIN:VEVENT
 UID:9767@Columbiahalle
-DTSTAMP:20261126T124633Z
+DTSTAMP:20261127T123948Z
 DTSTART:20270211T190000Z
 DTEND:20270211T230000Z
 SUMMARY:Editors
@@ -293,7 +293,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9767
 END:VEVENT
 BEGIN:VEVENT
 UID:9764@Columbiahalle
-DTSTAMP:20261126T124633Z
+DTSTAMP:20261127T123947Z
 DTSTART:20270213T190000Z
 DTEND:20270213T230000Z
 SUMMARY:EZRA COLLECTIVE\, Here Because of Hope Tour
@@ -304,7 +304,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9764
 END:VEVENT
 BEGIN:VEVENT
 UID:9777@Columbiahalle
-DTSTAMP:20261126T124634Z
+DTSTAMP:20261127T123947Z
 DTSTART:20270219T190000Z
 DTEND:20270219T230000Z
 SUMMARY:MALCOLM TODD\, Do That Again Tour\, Support: Natanya
@@ -315,7 +315,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9777
 END:VEVENT
 BEGIN:VEVENT
 UID:9791@Columbiahalle
-DTSTAMP:20261126T124634Z
+DTSTAMP:20261127T123947Z
 DTSTART:20270220T190000Z
 DTEND:20270220T230000Z
 SUMMARY:DOMINIC FIKE\, COMEDY TRAGEDY PARODY - DOMINC FIKE IN EUROPE
@@ -326,7 +326,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9791
 END:VEVENT
 BEGIN:VEVENT
 UID:9787@Columbiahalle
-DTSTAMP:20261126T124634Z
+DTSTAMP:20261127T123947Z
 DTSTART:20270302T190000Z
 DTEND:20270302T230000Z
 SUMMARY:Royal Blood
@@ -337,7 +337,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9787
 END:VEVENT
 BEGIN:VEVENT
 UID:9799@Columbiahalle
-DTSTAMP:20261126T124634Z
+DTSTAMP:20261127T123948Z
 DTSTART:20270306T183000Z
 DTEND:20270306T230000Z
 SUMMARY:Electric Kingdom! „ORIGINAL PLAYERS“ - Westbam - Mr X & Mr Y - Lexy & K-Paul - DJ I.C.O.N. - Chemical Reaction Food und vielen mehr!
@@ -348,7 +348,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9799
 END:VEVENT
 BEGIN:VEVENT
 UID:9748@Columbiahalle
-DTSTAMP:20261126T124634Z
+DTSTAMP:20261127T123948Z
 DTSTART:20270312T190000Z
 DTEND:20270312T230000Z
 SUMMARY:Team Scheisse
@@ -359,7 +359,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9748
 END:VEVENT
 BEGIN:VEVENT
 UID:9790@Columbiahalle
-DTSTAMP:20261126T124634Z
+DTSTAMP:20261127T123948Z
 DTSTART:20270313T190000Z
 DTEND:20270313T230000Z
 SUMMARY:Shygirl\, SHYGIRL – SWALLOW! LIVE
@@ -370,7 +370,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9790
 END:VEVENT
 BEGIN:VEVENT
 UID:9780@Columbiahalle
-DTSTAMP:20261126T124634Z
+DTSTAMP:20261127T123948Z
 DTSTART:20270317T190000Z
 DTEND:20270317T230000Z
 SUMMARY:Lizzy McAlpine\, The Over Country 2027
@@ -381,7 +381,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9780
 END:VEVENT
 BEGIN:VEVENT
 UID:9760@Columbiahalle
-DTSTAMP:20261126T124634Z
+DTSTAMP:20261127T123949Z
 DTSTART:20270320T190000Z
 DTEND:20270320T230000Z
 SUMMARY:OG Keemo\, 360GRADTour
@@ -392,7 +392,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9760
 END:VEVENT
 BEGIN:VEVENT
 UID:9788@Columbiahalle
-DTSTAMP:20261126T124634Z
+DTSTAMP:20261127T123949Z
 DTSTART:20270321T190000Z
 DTEND:20270321T230000Z
 SUMMARY:OG Keemo\, 360GRADTour
@@ -403,7 +403,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9788
 END:VEVENT
 BEGIN:VEVENT
 UID:9781@Columbiahalle
-DTSTAMP:20261126T124634Z
+DTSTAMP:20261127T123948Z
 DTSTART:20270322T190000Z
 DTEND:20270322T230000Z
 SUMMARY:Nessa Barrett\, Support: In Color
@@ -414,7 +414,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9781
 END:VEVENT
 BEGIN:VEVENT
 UID:9761@Columbiahalle
-DTSTAMP:20261126T124634Z
+DTSTAMP:20261127T123949Z
 DTSTART:20270402T180000Z
 DTEND:20270402T220000Z
 SUMMARY:Leoniden
@@ -425,18 +425,18 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9761
 END:VEVENT
 BEGIN:VEVENT
 UID:9789@Columbiahalle
-DTSTAMP:20261126T124635Z
+DTSTAMP:20261127T123949Z
 DTSTART:20270404T180000Z
 DTEND:20270404T220000Z
 SUMMARY:THE WOMBATS\, 20 YEARS OF A GUIDE TO LOVE\, LOSS & DESPERATION\, Support: THE SNUTS
-DESCRIPTION:Vorverkauf Start: Fr. 16.10. - 09:00h
+DESCRIPTION:Zwanzig Jahre\, sechs Studioalben und unzählige Indie-Hymnen später ist die Begeisterung für The Wombats ungebrochen. Was 2007 mit einem Debütalbum voller nervöser Gitarren\, scharfzüngiger Texte und unwiderstehlicher Refrains begann\, hat sich zu einer internationalen Erfolgsgeschichte entwickelt. Mit Songs wie „Let's Dance to Joy Division“\, „Moving to New York“ und „Kill the Director“ traf das Trio aus Liverpool den Nerv einer ganzen Indie-Generation und schuf Klassiker\, die bis heute auf keiner Indie-Party fehlen dürfen. 2027 feiern The Wombats nun das 20-jährige Jubiläum von „A Guide to Love\, Loss [&] Desperation“ und bringen die Songs\, mit denen alles begann\, im April für drei Konzerte nach Köln\, Berlin und München.\nAls „A Guide to Love\, Loss [&] Desperation“ im November 2007 erschien\, gehörten The Wombats zu den aufregendsten neuen Bands der britischen Indie-Rock-Szene. Sänger und Gitarrist Matthew „Murph“ Murphy\, Bassist Tord Øverland Knudsen und Schlagzeuger Dan Haggis verbanden hektische Rhythmen mit eingängigen Melodien und einer gehörigen Portion Selbstironie. Besonders „Let's Dance to Joy Division“ wurde zum Aushängeschild der Band und gewann 2008 einen NME Award als Best Dancefloor Filler. Das Album erreichte die britischen Top 20 und legte den Grundstein für eine Karriere\, die weit über den damaligen Indie-Hype hinausreichen sollte.\nMit den Nachfolgern „This Modern Glitch“ (2011)\, „Glitterbug“ (2015) und „Beautiful People Will Ruin Your Life“ (2018) entwickelten The Wombats ihren Sound kontinuierlich weiter. Der Song „Greek Tragedy“ erlebte Jahre nach seiner Veröffentlichung durch TikTok einen erneuten Popularitätsschub und brachte der Band eine neue Generation von Fans. 2022 erreichten The Wombats mit „Fix Yourself\, Not the World“ erstmals Platz eins der britischen Albumcharts. Ihr sechstes Studioalbum „Oh! The Ocean“ (2025)\, produziert von John Congleton\, zeigte das Trio zuletzt von einer experimentierfreudigeren\, organischeren Seite und bewies\, dass seine musikalische Entwicklung längst nicht abgeschlossen ist.\nBesonders live haben sich The Wombats über die Jahre einen herausragenden Ruf erspielt. Von kleinen Clubs bis zu ausverkauften Arenen und großen Festivalbühnen begeistert das Trio mit energiegeladenen Shows\, bei denen Mitsingen und Tanzen praktisch unvermeidlich sind. Die Jubiläumstour verspricht nun eine besondere Reise zurück zu den Anfängen\, wenn die frühen Indie-Hymnen wieder im Mittelpunkt stehen. Begleitet werden The Wombats dabei von der schottischen Indie-Rock-Band The Snuts. Drei Abende voller Nostalgie\, Euphorie und Songs\, die auch zwanzig Jahre später nichts von ihrer mitreißenden Wirkung verloren haben.\n\nPräsentiert wird die Tour von kulturnews und Frontstage Magazine.
 LOCATION:Columbiahalle\, Columbiadamm 13-21\, 10965 Berlin
 GEO:52.4845171;13.3905217
 URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9789
 END:VEVENT
 BEGIN:VEVENT
 UID:9778@Columbiahalle
-DTSTAMP:20261126T124634Z
+DTSTAMP:20261127T123948Z
 DTSTART:20270413T180000Z
 DTEND:20270413T220000Z
 SUMMARY:Snarky Puppy\, SNARKY PUPPY Live 2022
@@ -447,7 +447,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9778
 END:VEVENT
 BEGIN:VEVENT
 UID:9786@Columbiahalle
-DTSTAMP:20261126T124634Z
+DTSTAMP:20261127T123949Z
 DTSTART:20270414T180000Z
 DTEND:20270414T220000Z
 SUMMARY:Wanda\, “Was mich umbringt macht mich schwächer” Tour 2027
@@ -458,7 +458,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9786
 END:VEVENT
 BEGIN:VEVENT
 UID:9749@Columbiahalle
-DTSTAMP:20261126T124635Z
+DTSTAMP:20261127T123950Z
 DTSTART:20270418T180000Z
 DTEND:20270418T220000Z
 SUMMARY:Bibiza\, LIVE 2027
@@ -469,7 +469,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9749
 END:VEVENT
 BEGIN:VEVENT
 UID:9768@Columbiahalle
-DTSTAMP:20261126T124635Z
+DTSTAMP:20261127T123950Z
 DTSTART:20270424T170000Z
 DTEND:20270424T220000Z
 SUMMARY:MINISTRY\, HATE TO GO - GOODBYE EUROPE 2027\, Support: DIE KRUPPS
@@ -480,7 +480,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9768
 END:VEVENT
 BEGIN:VEVENT
 UID:9784@Columbiahalle
-DTSTAMP:20261126T124635Z
+DTSTAMP:20261127T123950Z
 DTSTART:20270429T180000Z
 DTEND:20270429T220000Z
 SUMMARY:Fuffifufzich\, New Era Same Error
@@ -491,7 +491,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9784
 END:VEVENT
 BEGIN:VEVENT
 UID:9776@Columbiahalle
-DTSTAMP:20261126T124635Z
+DTSTAMP:20261127T123950Z
 DTSTART:20270507T180000Z
 DTEND:20270507T220000Z
 SUMMARY:RAPK\, LIVE 2026
@@ -502,18 +502,18 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9776
 END:VEVENT
 BEGIN:VEVENT
 UID:9798@Columbiahalle
-DTSTAMP:20261126T124635Z
+DTSTAMP:20261127T123950Z
 DTSTART:20270512T180000Z
 DTEND:20270512T220000Z
 SUMMARY:NOGA EREZ\, DUCK SEASON TOUR 2027
-DESCRIPTION:
+DESCRIPTION:Noga Erez hat ein angeborenes Talent dafür\, Genres zu vermischen und kreative Grenzen nach außen zu treiben. Gemeinsam mit ihrem Partner und Producer Rousso wurde sie mit diesem Talent zu einer treibenden Kraft der modernen Musikszene. Ihre Einflüsse dafür zieht sie aus all den Erfahrungen ihrer direkten Umgebung – von gesellschaftlichen Problemen bis hin zu tiefer Introspektion\, die sie mit einer rohen Ehrlichkeit überliefert. Das führte Noga Erezzu Auftritten auf Festivals wie dem Coachella\, Austin City Limits\, Lollapalooza\, Bonnaroo\, Primavera Sound\, Sziget\, Roskilde\, Montreux Jazz Festival oder Rock en Seine\, ins Jimmy Kimmels Latenight-Show und zu insgesamt über 250 Mio. Streams auf ihrer Musik. Jetzt kündigte die Sängerin ihr neues Album „DUCK SEASON“ an\, das 2027 mit der bisher abenteuerlichsten Produktion von Noga Erezund Rousso aufwartet. Auf der DUCK SEASON TOUR wird die Sängerin nach der Veröffentlichung ihres neuen Albums auch nach Deutschland kommen\, wo sie in München\, Berlin\, Frankfurt\, Köln und Hamburg zu erleben ist.\nSeit ihrem Debütalbum „Off The Radar“ im Jahr 2017 hat Noga Erez sich selbst sowie ihren Sound kontinuierlich weiterentwickelt. Ihr mitreißender\, genreübergreifender Ansatz bescherte der Sängerin seitdem eine Liste namhafter Fans wie Missy Elliott\, Billie Eilish und Robbie Williams und Zuspruch von Medien wie Rolling Stone\, NPR\, NME\, Stereogum und weiteren. In den darauf folgenden Jahren feierte Noga Erez mit Songs wie „VIEWS“ und „End of the Road“von ihrem 2021 veröffentlichten Album„KIDS“ große Erfolge. Auch „DUMB“ und„Vandalist“ vom 2024 erschienenen dritten Album „THE VANDALIST“ reihen sich in die erfolgreichsten Tracks der Sängerin\, deren Musik in Film- und TV-Produktionen wie „Heart of Stone“\, „Sterling Point“ und jüngst auch „Nobody Wants This“ verwendet wurde. All diese Erfahrungen\, Features mit Stars wie Robbie Williams\, Missy Elliott\, Pink\, Florence + the Machine und Weezer wurden Grundlage von einer persönlichen und kreativen Reise\, die in der Dokumentation „NOGA“ von Jono und Benji Bergmann verfilmt wurde und beim Tribeca Festival in New York City ihre Premiere feierte. Im Oktober veröffentlichte Noga Erez noch ihre neue Single „Flights“\, die sie zur dritten Staffel der Netflix-Serie „Nobody Wants This“ beisteuerte. Nun geht Noga Erez den nächsten Schritt in ihrer Karriere und kündigt ihr viertes Studioalbum „DUCK SEASON“an\, das am 26. Februar über Atlantic Records erscheint. Das Album ist das Resultat aus jahrelanger Erforschung der eigenen Identität\, Verlangen und dem Kampf darum\, nach den eigenen Vorstellungen gehört zu werden. Ein Album mit dem Witz\, der Energie und den scharfsinnigen gesellschaftlichen Beobachtungen\, die zu Markenzeichen ihrer Musik wurden. Durchzogen von einem fast schon naiven Optimismus lädt Noga Erez ihre Hörer*innen dazu ein\, aus der Illusion zu erwachen\, dass Menschen durch gesellschaftliche Etiketten voneinander getrennt seien\, und liefert das bisher persönlichste Album ihrer Karriere.
 LOCATION:Columbiahalle\, Columbiadamm 13-21\, 10965 Berlin
 GEO:52.4845171;13.3905217
 URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9798
 END:VEVENT
 BEGIN:VEVENT
 UID:9800@Columbiahalle
-DTSTAMP:20261126T124635Z
+DTSTAMP:20261127T123950Z
 DTSTART:20270828T130000Z
 DTEND:20270828T220000Z
 SUMMARY:Elle & L's Festival
@@ -524,7 +524,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9800
 END:VEVENT
 BEGIN:VEVENT
 UID:9801@Columbiahalle
-DTSTAMP:20261126T124635Z
+DTSTAMP:20261127T123950Z
 DTSTART:20270829T130000Z
 DTEND:20270829T220000Z
 SUMMARY:Elle & L's Festival\, Das erste internationale Female-Multi-Genre-Festival
@@ -535,7 +535,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9801
 END:VEVENT
 BEGIN:VEVENT
 UID:9797@Columbiahalle
-DTSTAMP:20261126T124635Z
+DTSTAMP:20261127T123950Z
 DTSTART:20270924T180000Z
 DTEND:20270924T220000Z
 SUMMARY:2raumwohnung
@@ -546,7 +546,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9797
 END:VEVENT
 BEGIN:VEVENT
 UID:9793@Columbiahalle
-DTSTAMP:20261126T124635Z
+DTSTAMP:20261127T123950Z
 DTSTART:20271017T173000Z
 DTEND:20271017T220000Z
 SUMMARY:Frank Turner & The Sleeping Souls\, Last Evenings World Tour 2027\, Support: Skinny Lister & Beans on Toast
@@ -557,7 +557,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9793
 END:VEVENT
 BEGIN:VEVENT
 UID:9785@Columbiahalle
-DTSTAMP:20261126T124635Z
+DTSTAMP:20261127T123950Z
 DTSTART:20271022T180000Z
 DTEND:20271022T220000Z
 SUMMARY:Eisbrecher\, "Propaganda" Tour 2027
@@ -568,7 +568,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9785
 END:VEVENT
 BEGIN:VEVENT
 UID:9796@Columbiahalle
-DTSTAMP:20261126T124635Z
+DTSTAMP:20261127T123950Z
 DTSTART:20271106T190000Z
 DTEND:20271106T230000Z
 SUMMARY:Dritte Wahl
@@ -579,7 +579,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9796
 END:VEVENT
 BEGIN:VEVENT
 UID:9735@Columbiahalle
-DTSTAMP:20261126T124635Z
+DTSTAMP:20261127T123950Z
 DTSTART:20271127T190000Z
 DTEND:20271127T230000Z
 SUMMARY:SIND
@@ -590,7 +590,7 @@ URL;VALUE=URI:http://www.columbiahalle.berlin/de#event_9735
 END:VEVENT
 BEGIN:VEVENT
 UID:9687@Columbiahalle
-DTSTAMP:20261126T124635Z
+DTSTAMP:20261127T123950Z
 DTSTART:20301228T190000Z
 DTEND:20301228T230000Z
 SUMMARY:TZK\, TZKolumbiahalle 2030
